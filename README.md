@@ -33,3 +33,7 @@ console.log('New language combination', combinedLanguage);
 console.log('Missing keys in anotherLang:', englishKeys.filter((key) => anotherLangKeys.indexOf(key) === -1));
 console.log('Extra keys in anotherLang:', anotherLangKeys.filter((key) => englishKeys.indexOf(key) === -1));
 ```
+
+## Difficulties understanding
+
+It's not always obvious what something is referring to when you just see a word or two. Translations may vary on context, etc. In these cases, just ask. Open an issue and we'll figure it out together. Slack/IRC works too.
