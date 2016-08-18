@@ -58,7 +58,7 @@
   "Backtrack": "Zurückverfolgen",
   "Regex Debugger": "Regex Debugger",
   "Please hold while your expression is being debugged...": "Bitte warte während dein Ausdruck debuggt wird...",
-  "The regex debugger was unable to debug your pattern due to an error.": "Der Regex debugger konnte dein Pattern aufgrund eines Fehlers nicht debuggen.",
+  "The regex debugger was unable to debug your pattern due to an error.": "Der Regex Debugger konnte dein Pattern aufgrund eines Fehlers nicht debuggen.",
   "The regex debugger returned no data for the input you provided.": "Der Regex Debugger gab keine Daten für deine Eingabe aus.",
   "Match": "Match",
   "Match found in {1} step(s)": "Match gefunden in {1} Schritt(en)",
