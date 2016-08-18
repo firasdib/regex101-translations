@@ -65,7 +65,7 @@
   "Match failed in {1} step(s)": "Match fehlgeschlagen in {1} Schritten(en)",
   "Match halted after {1} step(s)": "Match angehalten nach {1} Schritt(en)",
   "You have made changes since you last saved, leaving the website will result in a permanent loss of the data.": "Du hast Änderungen gemacht seitdem du das letzte Mal gespeichert hast. Wenn du die Seite schließt, gehen diese verloren.",
-  "incomplete group structure": "incomplete group structure",
+  "incomplete group structure": "unvollständige Gruppenstrukture",
   "the condition is invalid (may be referencing a non-existent subpattern or group)": "der Ausdruck ist ungültig (vielleicht referenzierst du zu einem nicht existierenden Subpattern oder einer nicht existierenden Gruppe)",
   "a subpattern name must be unique": "ein Subpattern Name darf nur einmal vorkommen",
   "a subpattern name must be alpha numeric and may not begin with a digit": "ein Subpattern Name muss alphanumerisch sein und darf nicht mit einer Zahl beginnen",
