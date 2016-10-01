@@ -488,7 +488,7 @@
   "causes a skip to the next innermost alternative if the rest of the pattern does not match": "causes a skip to the next innermost alternative if the rest of the pattern does not match",
   "acts like {1}, except that if the  pattern  is unanchored, the bumpalong advance is not to the next character, but to the position in the subject where {2} was encountered": "acts like {1}, except that if the  pattern  is unanchored, the bumpalong advance is not to the next character, but to the position in the subject where {2} was encountered",
   "this verb causes the match to end successfully, skipping the remainder of the pattern": "this verb causes the match to end successfully, skipping the remainder of the pattern",
-  "Undescribed specific verb; No description for it yet (nothing's perfect)": "Undescribed specific verb; No description for it yet (nothing's perfect)",
+  "Undescribed specific verb; No description for it yet (nothing's perfect)": "Undescribable specific verb; No description for it yet (nothing's perfect)",
   "An explanation of your regex will be automatically generated as you type.": "An explanation of your regex will be automatically generated as you type.",
   "Your pattern contains one or more errors, please see the explanation section above.": "Your pattern contains one or more errors, please see the explanation section above.",
   "Your expression took too long to finish and was terminated. Please increase the timeout and try again.": "Your expression took too long to finish and was terminated. Please increase the timeout and try again.",

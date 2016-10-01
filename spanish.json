@@ -736,7 +736,7 @@
   "Twitter": "Twitter",
   "UCP (Unicode Character Properties) allows regex to treat the string as unicode, which means that \\d and \\w are extended to match other unicode characters than [0-9] and [a-zA-Z0-9_].": "UCP (Unicode Character Properties) allows regex to treat the string as Unicode, which means that \\d and \\w are extended to match other Unicode characters than [0-9] and [a-zA-Z0-9_].",
   "Unable to fetch versions": "Unable to fetch versions",
-  "Undescribed specific verb; No description for it yet (nothing's perfect)": "Undescribed specific verb; No description for it yet (nothing's perfect)",
+  "Undescribed specific verb; No description for it yet (nothing's perfect)": "Undescribable specific verb; No description for it yet (nothing's perfect)",
   "Unfavorite Regex": "Unfavourite Regex",
   "Ungreedy": "Ungreedy",
   "Unicode": "Unicode",
