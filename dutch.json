@@ -548,7 +548,7 @@
   "Lowercase letters": "Lowercase letters",
   "Matches lowercase letters. Equivalent to [a-z]. [[:lower:]] is a POSIX notation and it needs to be inside a [character class] notation.": "Matches lowercase letters. Equivalent to [a-z]. [[:lower:]] is a POSIX notation and it needs to be inside a [character class] notation.",
   "Visible characters": "Visible characters",
-  "Matches printable characters, part of the basic latin set, such as letters and spaces, without including control characters. [[:print:]] is a POSIX notation and it needs to be inside a [character class] notation.": "Matches printable characters, part of the basic latin set, such as letters and spaces, without including control characters. [[:print:]] is a POSIX notation and it needs to be inside a [character class] notation.",
+  "Matches printable characters, part of the basic latin set, such as letters and spaces, without including control characters. [[:print:]] is a POSIX notation and it needs to be inside a [character class] notation.": "Matches printable characters, part of the basic Latin set, such as letters and spaces, without including control characters. [[:print:]] is a POSIX notation and it needs to be inside a [character class] notation.",
   "Visible punctuation characters": "Visible punctuation characters",
   "Matches characters that are not whitespace, letters or numbers. [[:punct:]] is a POSIX notation and it needs to be inside a [character class] notation.": "Matches characters that are not whitespace, letters or numbers. [[:punct:]] is a POSIX notation and it needs to be inside a [character class] notation.",
   "Whitespace": "Whitespace",
