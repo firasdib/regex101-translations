@@ -118,7 +118,7 @@
   "Any single character": "Any single character",
   "Any subpatterns in (...) in such a group share the same number.": "Any subpatterns in (...) in such a group share the same number.",
   "Any text appearing in this group is ignored in the regex. Another option is enabling the x flag to allow #comments. This flag will also cause regex to ignore spaces.": "Any text appearing in this group is ignored in the regex. Another option is enabling the x flag to allow #comments. This flag will also cause regex to ignore spaces.",
-  "Any Unicode sequences, linebreaks included": "Any Unicode sequences, linebreaks included",
+  "Any Unicode sequences, linebreaks included": "Any Unicode sequences, line breaks included",
   "Any whitespace character": "Any whitespace character",
   "Any word can be used as a tag": "Any word can be used as a tag",
   "Any word character": "Any word character",

@@ -577,7 +577,7 @@
   "Matches any letter, digit or underscore. Equivalent to [a-zA-Z0-9_].": "Matches any letter, digit or underscore. Equivalent to [a-zA-Z0-9_].",
   "Any non-word character": "Any non-word character",
   "Matches anything other than a letter, digit or underscore.": "Matches anything other than a letter, digit or underscore.",
-  "Any Unicode sequences, linebreaks included": "Any Unicode sequences, linebreaks included",
+  "Any Unicode sequences, linebreaks included": "Any Unicode sequences, line breaks included",
   "Matches any valid Unicode sequence, including line breaks.": "Matches any valid Unicode sequence, including line breaks.",
   "Match one data unit": "Match one data unit",
   "Matches exactly one data unit of input. Can match individual bytes in UTF-8 mode, leading to undefined behaviour if a search starts inside a character.": "Matches exactly one data unit of input. Can match individual bytes in UTF-8 mode, leading to undefined behaviour if a search starts inside a character.",
