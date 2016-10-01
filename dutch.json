@@ -645,7 +645,7 @@
   "Match everything enclosed": "Match everything enclosed",
   "This construct is similar to (...), but won't create a capture group.": "This construct is similar to (...), but won't create a capture group.",
   "Atomic group (non-capturing)": "Atomic group (non-capturing)",
-  "Matches the longest possible substring in the group and doesn't allow later backtracking to reevaluate the group. It is not a capturing group.": "Matches the longest possible substring in the group and doesn't allow later backtracking to reevaluate the group. It is not a capturing group.",
+  "Matches the longest possible substring in the group and doesn't allow later backtracking to reevaluate the group. It is not a capturing group.": "Matches the longest possible substring in the group and doesn't allow later backtracking to re-evaluate the group. It is not a capturing group.",
   "Duplicate subpattern group number": "Duplicate subpattern group number",
   "Any subpatterns in (...) in such a group share the same number.": "Any subpatterns in (...) in such a group share the same number.",
   "Any text appearing in this group is ignored in the regex. Anoter option is enabling the x flag to allow #comments. This flag will also cause regex to ignore spaces.": "Any text appearing in this group is ignored in the regex. Anoter option is enabling the x flag to allow #comments. This flag will also cause regex to ignore spaces.",
