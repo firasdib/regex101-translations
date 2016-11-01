@@ -1,8 +1,8 @@
 # Translations for regex101
 
-Base your translation off of `english.json`. The keys are the english words, do not touch these. They need to remain identical. If there is a typo or problem, open an issue/inform me and I'll sort it out. Strings may contain placeholders, indicated with `{n}` where `n` is a positive number greater than zero. Do not remove these, but feel free to move them around. Quite often you can figure out what they are inserting (almost always a non-translatable string, such as a number).
+We've set up a weblate instance at [https://r101.cf](https://r101.cf), which is a collaborative translation platform. The keys are the english words, and those cannot be edited. They need to remain identical. If there is a typo or problem, open an issue/inform me and I'll sort it out. Strings may contain placeholders, indicated with `{n}` where `n` is a positive number greater than zero. Do not remove these, but feel free to move them around. Quite often you can figure out what they are inserting (almost always a non-translatable string, such as a number).
 
-When you are finished, just push your changes over here in a new json file with the language name.
+If you cannot find a language you're interested in translating, you may add it yourself from r101.cf, once you're logged in.
 
 **Note: The strings are treated literally, you may not (and need not) use any html tags or entities.** 
 
