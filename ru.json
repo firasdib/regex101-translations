@@ -19,7 +19,7 @@
     "{1} and {2} are also available with the use of '{3}'": "Также доступны {1} и {2} при использовании '{3}'",
     "{1} Capturing Group": "{1} подстрока",
     "{1} checks whether the {2} capturing group matched when it was last attempted": "{1} проверяет, входит ли шаблон {2} во время последней проверки",
-    "{1} checks whether the {2} subroutine matches": "{1} checks whether the {2} subroutine matches",
+    "{1} checks whether the {2} subroutine matches": "{1} проверяет вхождение подпрограммы {2}",
     "{1} checks whether the whole pattern matches": "{1} checks whether the whole pattern matches",
     "{1} match": "{1} match",
     "{1} matches": "{1} matches",
