@@ -15,7 +15,7 @@
     "(except for line terminators)": "(кроме символов конца строки)",
     "{1} — Matches between {2} and {3} times, {4} {5}": "{1} — Совпадения от {2} до {3} раз, {4} {5}",
     "{1} — Matches exactly {2} {3} {4}": "{1} — Точно совпадает {2} {3} {4}",
-    "{1} Alternative": "{1} Alternative",
+    "{1} Alternative": "{1} Альтернатива",
     "{1} and {2} are also available with the use of '{3}'": "{1} and {2} are also available with the use of '{3}'",
     "{1} Capturing Group": "{1} Capturing Group",
     "{1} checks whether the {2} capturing group matched when it was last attempted": "{1} checks whether the {2} capturing group matched when it was last attempted",
