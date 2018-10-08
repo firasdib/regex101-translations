@@ -1,6 +1,6 @@
 {
-    "'{0}' found at index {1}": "",
-    "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "",
+    "'{0}' found at index {1}": "'{0}' nalezeno na indexu {1}",
+    "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "(*ANY) způsobí, že jakýkoliv Unicode znak pro nový řádek nebo jejich sekvence zalomí řádek.",
     "(*ANYCRLF) makes it so that either a carriage return character or a line feed character, or the two in sequence are considered a line break.": "",
     "(*CR) makes it so that only a carriage return character is considered a line break.": "",
     "(*CRLF) makes it so that only a carriage return character followed by a line feed character is considered a line break. Common in Windows documents.": "",
@@ -885,16 +885,16 @@
     "You must be signed in to vote": "Pro účast v hlasování se musíte přihlásit",
     "You will find a link to your library entry here:": "",
     "Your entry has successfully been submitted to the library": "",
-    "Your expression caused an unhandled error:": "",
-    "Your expression took too long to finish and was terminated. Please increase the timeout and try again.": "",
+    "Your expression caused an unhandled error:": "Váš výraz způsobil neošetřenou chybu:",
+    "Your expression took too long to finish and was terminated. Please increase the timeout and try again.": "Zpracování vašeho výrazu trvalo příliš dlouho a bylo ukončeno. Zvyšte prosím časový limit a zkuste to znovu.",
     "Your history is empty.": "Historie je prázdná.",
     "Your pattern contains one or more errors, please see the explanation section above.": "Váš výraz obsahuje jednu nebo více chyb, vizte prosím sekci vysvětlivek nahoře.",
     "Your regex has been permanently saved and may be accessed with this link by anybody you give it to.": "Váš regulární výraz je nyní permanentně uložen a je přístupný na tomto odkaze, který můžete komukoliv dát.",
     "Your regular expression does not match the subject string.": "",
-    "Your search did not match anything": "",
+    "Your search did not match anything": "Vaše hledání nevrátilo žádné výsledky",
     "Your tag filtration returned no results.": "",
     "Your workspace has been forked into a separate entry that only you can modify, which you can find here": "",
     "zero": "",
     "Zero or more of a": "",
-    "Zero or one of a": ""
+    "Zero or one of a": "Maximálně jeden z"
 }
