@@ -42,7 +42,7 @@
     "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching": "{1}. Erzwingt das die Escape-Sequenzen {2}, {3}, {4}, {5}, {6}, {7}, {8} und {9} nur ASCII- anstatt voll Unicode Abgleiche durchzuführen",
     "{1}. Force the pattern to only match consecutive matches from where the previous match ended.": "{1}. Erzwingt das weitere Treffer des Musters nur von der Endposition des letzten Treffers gesucht werden.",
     "{1}. Make {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} perform matching with Unicode semantic (redundant in Python 3)": "{1}. Bewirkt das {2}, {3}, {4}, {5}, {6}, {7}, {8} und {9} mit Unicode Semantik abgleichen (redundant in Python 3)",
-    "{1}. Pattern is forced to {2}": "{1}. Pattern is forced to {2}",
+    "{1}. Pattern is forced to {2}": "{1}. Muster wird zu {2} gezwungen",
     "{1}. Pattern strings are treated as {2}. Also causes escape sequences to match unicode characters": "{1}. Muster Zeichenfolgen werden als {2} behandelt. Erwirkt außerdem das Escape Sequenzen als Unicode Zeichen abgeglichen werden",
     "{1}. Spaces and text after a {2} in the pattern are ignored": "{1}. Leerzeichen und Text nach einem {2} im Muster werden ignoriert",
     "{1}. The match becomes greedy by default": "{1}. Das Muster wird standardmäßig gierig",
