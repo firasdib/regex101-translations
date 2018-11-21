@@ -68,7 +68,7 @@
     "A subpattern name must be alpha numeric and may not begin with a digit": "Le nom d'un sous-motif doit être composé de caractères alphanumériques et ne doit pas commencer par un chiffre",
     "A subpattern name must be unique": "Le nom d'un sous-motif doit être unique",
     "A word boundary": "La limite d'un mot",
-    "Absolute end of string": "Absolute end of string",
+    "Absolute end of string": "La fin absolue d'une chaîne de caractère",
     "Account": "Compte",
     "Account data": "Account data",
     "Account Page": "Mon compte",
