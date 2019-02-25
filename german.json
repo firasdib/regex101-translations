@@ -64,7 +64,7 @@
     "A quantifier inside a lookbehind makes it non-fixed width": "A quantifier inside a lookbehind makes it non-fixed width",
     "A repeated capturing group will only capture the last iteration. Put a capturing group around the repeated group to capture all iterations or use a non-capturing group instead if you're not interested in the data": "Eine wiederholte Erfassungsgruppe erfasst nur die letzte Iteration. Umschliesse die wiederholte Erfassungsgruppe mit einer Erfassungsgruppe um alle Iterationen zu erfassen oder benutzte eine Nicht-Erfassungsgruppe wenn die Daten nicht von Interesse sind.",
     "a single character in the range between {1} {2} and {3} {4} ({5})": "Ein einzelnes Zeichen im Bereich zwischen {1} {2} und {3} {4} ({5})",
-    "A single character of: a, b or c": "Ein einzelnes Zeichen entweder: a, b oder c",
+    "A single character of: a, b or c": "Ein einzelnes Zeichen, entweder: a, b oder c",
     "A subpattern name must be alpha numeric and may not begin with a digit": "Der Name des Untermuster's muss alphanumerisch sein und darf nicht mit einer Zahl anfangen",
     "A subpattern name must be unique": "Der Name eines Untermuster's muss einzigartig sein",
     "A word boundary": "Eine Wortgrenze",
