@@ -1,5 +1,5 @@
 {
-    "'{0}' found at index {1}": "",
+    "'{0}' found at index {1}": "'{0}' مورد در شاخص {1} یافت شد",
     "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "",
     "(*ANYCRLF) makes it so that either a carriage return character or a line feed character, or the two in sequence are considered a line break.": "",
     "(*CR) makes it so that only a carriage return character is considered a line break.": "",
@@ -888,13 +888,13 @@
     "Your expression caused an unhandled error:": "",
     "Your expression took too long to finish and was terminated. Please increase the timeout and try again.": "",
     "Your history is empty.": "",
-    "Your pattern contains one or more errors, please see the explanation section above.": "",
+    "Your pattern contains one or more errors, please see the explanation section above.": "الگوی شما دارای یک یا چندین خطاست، لطفا بخش توضیحات را در بالا ببینید.",
     "Your regex has been permanently saved and may be accessed with this link by anybody you give it to.": "",
-    "Your regular expression does not match the subject string.": "",
-    "Your search did not match anything": "",
-    "Your tag filtration returned no results.": "",
-    "Your workspace has been forked into a separate entry that only you can modify, which you can find here": "",
-    "zero": "",
-    "Zero or more of a": "",
-    "Zero or one of a": ""
+    "Your regular expression does not match the subject string.": "عبارات منظم شما با موضوع رشته همخوانی ندارند.",
+    "Your search did not match anything": "هیچ موردی با جستجوی شما همخوانی نداشت",
+    "Your tag filtration returned no results.": "فیلتر تگ شما نتیجه‌ای نداشت.",
+    "Your workspace has been forked into a separate entry that only you can modify, which you can find here": "محیط کار شما به شاخه‌ی تازه‌ای وارد شد که تنها شما میتوانید آنرا اصلاح نمایید، میتوانید آنرا از اینجا بیابید",
+    "zero": "صفر",
+    "Zero or more of a": "صفر یا بیشتر از",
+    "Zero or one of a": "صفر یا یکی از"
 }
