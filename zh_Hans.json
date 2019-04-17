@@ -66,7 +66,7 @@
     "A single character of: a, b or c": "A single character of: a, b or c",
     "A subpattern name must be alpha numeric and may not begin with a digit": "A subpattern name must be alpha numeric and may not begin with a digit",
     "A subpattern name must be unique": "A subpattern name must be unique",
-    "A word boundary": "A word boundary",
+    "A word boundary": "单词边界",
     "Absolute end of string": "Absolute end of string",
     "Account": "Account",
     "Account Page": "Account Page",
