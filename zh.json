@@ -889,11 +889,11 @@
     "Your expression took too long to finish and was terminated. Please increase the timeout and try again.": "Your expression took too long to finish and was terminated. Please increase the timeout and try again.",
     "Your history is empty.": "你的历史记录为空。",
     "Your pattern contains one or more errors, please see the explanation section above.": "你的模式包含一个或多个错误，请参阅之前的说明。",
-    "Your regex has been permanently saved and may be accessed with this link by anybody you give it to.": "Your regex has been permanently saved and may be accessed with this link by anybody you give it to.",
+    "Your regex has been permanently saved and may be accessed with this link by anybody you give it to.": "你的正则表达式已永久保存，任何人都可以访问这个链接",
     "Your regular expression does not match the subject string.": "你的正则表达式没有匹配目标字符串",
     "Your search did not match anything": "你的搜索条件未匹配到内容",
     "Your tag filtration returned no results.": "你的标签过滤器返回为空。",
-    "Your workspace has been forked into a separate entry that only you can modify, which you can find here": "Your workspace has been forked into a separate entry that only you can modify, which you can find here",
+    "Your workspace has been forked into a separate entry that only you can modify, which you can find here": "你已经复制了整个工作区，只有你自己可以修改，在这里可以找到",
     "zero": "0",
     "Zero or more of a": "零个或更多a",
     "Zero or one of a": "零个或一个a"
