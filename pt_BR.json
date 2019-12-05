@@ -1,6 +1,6 @@
 {
     "'{0}' found at index {1}": "'{0}' encontrado no índice {1}",
-    "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "(*ANY) faz com que qualquer caractere de nova linha unicode ou sequência, conte como uma quebra de linha.",
+    "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "(*ANY) faz com que qualquer caractere unicode de nova linha ou sequência conte como uma quebra de linha.",
     "(*ANYCRLF) makes it so that either a carriage return character or a line feed character, or the two in sequence are considered a line break.": "(*ANYCRLF) faz com que ou o caractere de fim de linha (CR) ou o caractere de nova linha (LF), ou ambos em sequência sejam considerados quebra de linha.",
     "(*CR) makes it so that only a carriage return character is considered a line break.": "(*CR) faz com que somente um caractere fim de linha (CR) seja considerado quebra de linha.",
     "(*CRLF) makes it so that only a carriage return character followed by a line feed character is considered a line break. Common in Windows documents.": "(*CRLF) faz com que somente um caractere de fim de linha (CR) seguido de um caractere de nova linha (LF) sejam considerados uma quebra de linha. Comum em documentos Windows.",
