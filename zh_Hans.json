@@ -1,5 +1,5 @@
 {
-    "'{0}' found at index {1}": "'{0}' found at index {1}",
+    "'{0}' found at index {1}": "'{0}' 在第 {1} 位匹配",
     "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.": "(*ANY) makes it so that any unicode newline character or sequence thereof counts as a line break.",
     "(*ANYCRLF) makes it so that either a carriage return character or a line feed character, or the two in sequence are considered a line break.": "(*ANYCRLF) makes it so that either a carriage return character or a line feed character, or the two in sequence are considered a line break.",
     "(*CR) makes it so that only a carriage return character is considered a line break.": "(*CR) makes it so that only a carriage return character is considered a line break.",
