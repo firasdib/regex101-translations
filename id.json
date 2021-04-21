@@ -1,6 +1,6 @@
 {
-    "'{0}' found at index {1}": "",
-    "(except for line terminators)": "",
+    "'{0}' found at index {1}": "'{0}' ditemukan pada indeks {1}",
+    "(except for line terminators)": "(kecuali pada pengakhir baris)",
     "{1} — Matches between {2} and {3} times, {4} {5}": "",
     "{1} — Matches exactly {2} {3} {4}": "",
     "{1} Alternative": "",
