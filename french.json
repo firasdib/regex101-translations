@@ -378,7 +378,7 @@
     "Match one data unit": "Fait correspondre une unité de données",
     "Match previously-named capture group `name`": "Fait correspondre le précédent groupe de capture nommé `name`",
     "Match subpattern `name`": "Fait correspondre la sous-expression nommé `name`",
-    "Match the first capture group following the current position in the expression. (?+2) is the second one, (?-1) is before current position.": "Match the first capture group following the current position in the expression. (?+2) is the second one, (?-1) is before current position.",
+    "Match the first capture group following the current position in the expression. (?+2) is the second one, (?-1) is before current position.": "Trouve le premier groupe de capture suivant la position actuelle dans l'expression. (?+2) est le suivant, (?-1) est le précédent.",
     "match the remainder of the pattern with the following effective flags: {1}": "match the remainder of the pattern with the following effective flags: {1}",
     "Match was found at {1}": "Correspondance trouvée à la position {1}",
     "Match with full unicode": "Match with full unicode",
