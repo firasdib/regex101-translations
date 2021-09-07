@@ -1,7 +1,7 @@
 {
     "'{0}' found at index {1}": "'{0}' ditemukan pada indeks {1}",
     "(except for line terminators)": "(kecuali pada pengakhir baris)",
-    "{1} — Matches between {2} and {3} times, {4} {5}": "",
+    "{1} — Matches between {2} and {3} times, {4} {5}": "{1} — Cocok diantara {2} dan {3} kali, {4} {5}",
     "{1} — Matches exactly {2} {3} {4}": "",
     "{1} Alternative": "",
     "{1} and {2} are also available with the use of '{3}'": "",
