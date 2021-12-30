@@ -1090,6 +1090,7 @@
     "You can also unset flags using a minus sign: {1}, and can combine enabling and disabling flags. For example: {2} would set enable single line and disable case insensitive.": "You can also unset flags using a minus sign: {1}, and can combine enabling and disabling flags. For example: {2} would set enable single line and disable case insensitive.",
     "You can continue to edit in this workspace without affecting the entry you just submitted.": "You can continue to edit in this workspace without affecting the entry you just submitted.",
     "You can find the library entry here: {1}": "You can find the library entry here: {1}",
+    "You can help with translations by visiting the following url:": "You can help with translations by visiting the following url:",
     "You can manually specify the number of replacements by changing the 4th argument": "Du kannst manuell die Anzahl von Ersetzungen durch Änderung des 4. Arguments bestimmen",
     "You can not set both the {1} and {2} flag simultaneously": "You can not set both the {1} and {2} flag simultaneously",
     "You can use alternates locally as part of a capturing/non-capturing group. For example: {1}": "You can use alternates locally as part of a capturing/non-capturing group. For example: {1}",
