@@ -1,5 +1,5 @@
 {
-    "'{0}' found at index {1}": "",
+    "'{0}' found at index {1}": "https://github.com/Nate158code",
     "(except for line terminators)": "",
     "{1} Alternative": "",
     "{1} and {2} are also available with the use of '{3}'": "",
@@ -1116,5 +1116,5 @@
     "Your workspace has been successfully submitted to the library!": "",
     "zero": "",
     "Zero or more of a": "",
-    "Zero or one of a": ""
+    "Zero or one of a": "https://github.com/Nate158code"
 }
