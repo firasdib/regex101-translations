@@ -710,7 +710,7 @@
     "No Match": "No Match",
     "No match groups were extracted.": "No match groups were extracted.",
     "No result": "No result",
-    "No tests matched your filter": "No tests matched your filter",
+    "No tests matched your filter, click {1} to show all.": "No tests matched your filter, click {1} to show all.",
     "Non-atomic Positive Lookahead": "Non-atomic Positive Lookahead",
     "Non-atomic Positive Lookbehind": "Non-atomic Positive Lookbehind",
     "Non-capturing group": "Non-capturing group",
