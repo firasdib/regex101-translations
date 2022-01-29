@@ -1,7 +1,7 @@
 {
     "'{0}' found at index {1}": "インデックス {1} で '{0}' が見つかりました。",
-    "(except for line terminators)": "(except for line terminators)",
-    "{1} Alternative": "{1} Alternative",
+    "(except for line terminators)": "(行末以外)",
+    "{1} Alternative": "{1} 代替",
     "{1} and {2} are also available with the use of '{3}'": "{1} and {2} are also available with the use of '{3}'",
     "{1} can be used to match the same text the third preceding capture group matched and captured.": "{1} can be used to match the same text the third preceding capture group matched and captured.",
     "{1} Capturing Group": "{1} Capturing Group",
