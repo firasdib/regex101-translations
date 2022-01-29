@@ -941,7 +941,6 @@
     "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.": "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.",
     "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.": "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.",
     "The range is invalid because either the left or right token is erroneous": "L'intervalle est invalide car le jeton de gauche ou le jeton de droite est erroné",
-    "The range is invalid because the rightmost token is not rangeable": "L'intervalle est invalide car le jeton le plus à droite n'est pas utilisable dans un intervalle",
     "The regex debugger returned no data for the input you provided.": "Le débugueur de regex n'a retourné aucune donnée pour l'entrée que vous avez fourni.",
     "The regex debugger was unable to debug your pattern due to an error.": "Le débugueur de regex n'a pu débuguer votre expression à cause d'une erreur.",
     "The regex did not match the subject string.": "L'expression régulière n'a pas effectué de correspondances avec la chaîne de caractères.",

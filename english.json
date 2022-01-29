@@ -939,7 +939,6 @@
     "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.": "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.",
     "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.": "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.",
     "The range is invalid because either the left or right token is erroneous": "The range is invalid because either the left or right token is erroneous",
-    "The range is invalid because the rightmost token is not rangeable": "The range is invalid because the rightmost token is not rangeable",
     "The regex debugger returned no data for the input you provided.": "The regex debugger returned no data for the input you provided.",
     "The regex debugger was unable to debug your pattern due to an error.": "The regex debugger was unable to debug your pattern due to an error.",
     "The regex did not match the subject string.": "The regex did not match the subject string.",

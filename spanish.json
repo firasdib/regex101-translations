@@ -941,7 +941,6 @@
     "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.": "The quiz is divided into a number of different tasks, which each have a short description of the problem for you to solve.",
     "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.": "The quiz is evaluated using the PCRE2 engine, which is also available in the main editor if you would like to do some testing.",
     "The range is invalid because either the left or right token is erroneous": "El rango es inválido porque un modificador en la izquierda o la derecha es incorrecto",
-    "The range is invalid because the rightmost token is not rangeable": "El rango es inválido porque el modificador de la derecha no admite rangos",
     "The regex debugger returned no data for the input you provided.": "El depurador de expresiones no retornó datos para la entrada ingresada.",
     "The regex debugger was unable to debug your pattern due to an error.": "El depurador de expresiones no pudo depurar el patrón debido a un error.",
     "The regex did not match the subject string.": "La expresión no coincidió con la cadena.",
