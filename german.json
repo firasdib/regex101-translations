@@ -32,7 +32,7 @@
     "{1}. Case sensitive match": "{1}. Groß- / Kleinschreibung beachten",
     "{1}. Causes {2} and {3} to match begin/end of string": "{1}. Bewirkt das {2} und {3} am Anfang/Ende der Zeichenfolge abgeglichen werden",
     "{1}. Causes {2} and {3} to match the begin/end of each line (not only begin/end of string)": "{1}. Bewirkt das {2} und {3} am Anfang/Ende der Zeile abgeglichen werden (nicht nur am Anfang/Ende der Zeichenfolge)",
-    "{1}. Dot matches newline characters {2}": "{1}. Dot matches newline characters {2}",
+    "{1}. Dot matches newline characters {2}": "{1}. Punkt findet Zeilenumbruchzeichen [2}",
     "{1}. Enable all unicode features and interpret all unicode escape sequences as such": "{1}. Alle Unicode Eigenschaften aktivieren und alle Unicode-Escape-Sequenzen als solche interpretieren",
     "{1}. Enable the built in character classes to also match unicode characters": "{1}. Aktivieren Sie die integrierten Zeichenklassen, um auch Unicode-Zeichen zu finden",
     "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set": "{1}. Erzwingt das ein Dollarzeichen, {2}, immer am Ende der Zeichenfolge anstatt am Ende der Zeile abgeglichen wird. Diese Option wird ignoriert falls die {3}-flag gesetzt ist",
