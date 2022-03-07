@@ -36,7 +36,7 @@
     "{1}. Enable all unicode features and interpret all unicode escape sequences as such": "{1}. 启用所有 Unicode 特性，并且正确地处理非BMP字符",
     "{1}. Enable the built in character classes to also match unicode characters": "{1}. Enable the built in character classes to also match unicode characters",
     "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set": "{1}. 强制使用美元($)符号，{2}，总是匹配字符串的结尾，而不是行的结尾。如果设置了{3}标志，该选项将被忽略。",
-    "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching": "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching",
+    "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching": "{1}. 强制使转义字符 {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} 仅作ASCII匹配而不作Unicode 匹配。",
     "{1}. Force the pattern to only match consecutive matches from where the previous match ended.": "{1}. 强制模式只匹配从上一个匹配结束的地方开始的连续匹配。",
     "{1}. Make {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} perform matching with Unicode semantic (redundant in Python 3)": "{1}. 使{2}、{3}、{4}、{5}、{6}、{7}、{8}和{9}用Unicode语义进行匹配（在Python 3中是多余的）。",
     "{1}. Pattern strings are treated as {2}. Also causes escape sequences to match unicode characters": "{1}. 模式字符串被视为{2}。还会使转义序列与Unicode字符相匹配",
