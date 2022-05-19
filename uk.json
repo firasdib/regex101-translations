@@ -32,7 +32,7 @@
     "{1}. Case sensitive match": "{1}. Збіг з урахуванням регістру",
     "{1}. Causes {2} and {3} to match begin/end of string": "{1}. Примушує {2} і {3} відповідати початку/кінцю рядка",
     "{1}. Causes {2} and {3} to match the begin/end of each line (not only begin/end of string)": "{1}. Примушує {2} і {3} відповідати початку/кінцю кожного рядка (а не лише початку/кінцю рядка)",
-    "{1}. Dot matches newline characters": "",
+    "{1}. Dot matches newline characters": "{1}. Крапка відповідає символам нового рядка",
     "{1}. Enable all unicode features and interpret all unicode escape sequences as such": "",
     "{1}. Enable the built in character classes to also match unicode characters": "",
     "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set": "",
