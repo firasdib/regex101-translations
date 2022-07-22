@@ -35,7 +35,7 @@
     "{1}. Dot matches newline characters": "{1}. Dot matches newline characters",
     "{1}. Enable all unicode features and interpret all unicode escape sequences as such": "{1}. Habilita todos os recursos unicode assim como interpreta todas as sequências de escape unicode",
     "{1}. Enable the built in character classes to also match unicode characters": "{1}. Enable the built in character classes to also match unicode characters",
-    "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set": "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set",
+    "{1}. Force the a dollar sign, {2}, to always match end of the string, instead of end of the line. This option is ignored if the {3}-flag is set": "{1}. Força o cifrão, {2},para sempre corresponder ao final da string, em vez do final da linha. Esta opção é ignorada se a {3}-flag estiver definida",
     "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching": "{1}. Force the escape sequences {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} to perform ASCII-only matching instead of full Unicode matching",
     "{1}. Force the pattern to only match consecutive matches from where the previous match ended.": "{1}. Force the pattern to only match consecutive matches from where the previous match ended.",
     "{1}. Make {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} perform matching with Unicode semantic (redundant in Python 3)": "{1}. Make {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9} perform matching with Unicode semantic (redundant in Python 3)",
