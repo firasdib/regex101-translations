@@ -1141,8 +1141,8 @@
     "Visualize whitespace and other special characters": "Visualize whitespace and other special characters",
     "Vote": "Oy Ver",
     "Welcome to the regex101 regex quiz!": "Regex101 regex quizine hoş geldiniz!",
-    "What's new?": "What's new?",
-    "Whats new?": "Whats new?",
+    "What's new?": "Yeni ne var?",
+    "Whats new?": "Yeni ne var?",
     "Whitespace": "Whitespace",
     "Whole match is {1} and its start/end positions can be obtained via {2} and {3}": "Whole match is {1} and its start/end positions can be obtained via {2} and {3}",
     "Wiki": "Wiki",
@@ -1150,9 +1150,9 @@
     "with no special consideration for the \\r\\n sequence": "with no special consideration for the \\r\\n sequence",
     "Word characters": "Word characters",
     "Wrap Long Lines": "Wrap Long Lines",
-    "Write": "Write",
+    "Write": "Yaz",
     "Yes, delete": "Evet, Sil",
-    "Yes, delete everything": "Yes, delete everything",
+    "Yes, delete everything": "Evet, hepsini sil",
     "You also get a valuable feature set with regards to your data privacy, where you are given the ability to restrict who can view and edit the information you save.": "You also get a valuable feature set with regards to your data privacy, where you are given the ability to restrict who can view and edit the information you save.",
     "You can add titles and tags to organize your entries, as well as favorite any expressions.": "You can add titles and tags to organize your entries, as well as favorite any expressions.",
     "You can also unset flags using a minus sign: {1}, and can combine enabling and disabling flags. For example: {2} would set enable single line and disable case insensitive.": "You can also unset flags using a minus sign: {1}, and can combine enabling and disabling flags. For example: {2} would set enable single line and disable case insensitive.",
@@ -1185,7 +1185,7 @@
     "Your shortest solution thus far is {1} characters long. The overall shortest solution is {2} characters long.": "Your shortest solution thus far is {1} characters long. The overall shortest solution is {2} characters long.",
     "Your tag filtration returned no results.": "Your tag filtration returned no results.",
     "Your workspace has been successfully submitted to the library!": "Your workspace has been successfully submitted to the library!",
-    "zero": "zero",
-    "Zero or more of a": "Zero or more of a",
-    "Zero or one of a": "Zero or one of a"
+    "zero": "sıfır",
+    "Zero or more of a": "Sıfır veya bir",
+    "Zero or one of a": "Sıfır veya bir"
 }
