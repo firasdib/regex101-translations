@@ -1165,6 +1165,7 @@
     "You can use hexadecimals to insert any character into the replacement string using the standard syntax.": "You can use hexadecimals to insert any character into the replacement string using the standard syntax.",
     "You cannot create a range with an opening bracket": "You cannot create a range with an opening bracket",
     "You cannot create a range with shorthand escape sequences": "Вы не можете создать диапазон с сокращёнными escape-последовательностями",
+    "You cannot create character ranges with the terminating character class token": "You cannot create character ranges with the terminating character class token",
     "You cannot nest conditional replacements more than 10 levels deep": "You cannot nest conditional replacements more than 10 levels deep",
     "You do not have to create an account, just select an existing account from one of the supported service providers.": "Вам не нужно создавать учетную запись, просто выберите существующую учётную запись у одного из поддерживаемых поставщиков услуг.",
     "You have made changes since you last saved, leaving the website will result in a permanent loss of the data.": "Вы вносили изменения с момента последнего сохранения, если вы покинете веб-сайт - это приведёт к полной потере данных.",

@@ -1165,6 +1165,7 @@
     "You can use hexadecimals to insert any character into the replacement string using the standard syntax.": "You can use hexadecimals to insert any character into the replacement string using the standard syntax.",
     "You cannot create a range with an opening bracket": "You cannot create a range with an opening bracket",
     "You cannot create a range with shorthand escape sequences": "You cannot create a range with shorthand escape sequences",
+    "You cannot create character ranges with the terminating character class token": "You cannot create character ranges with the terminating character class token",
     "You cannot nest conditional replacements more than 10 levels deep": "You cannot nest conditional replacements more than 10 levels deep",
     "You do not have to create an account, just select an existing account from one of the supported service providers.": "You do not have to create an account, just select an existing account from one of the supported service providers.",
     "You have made changes since you last saved, leaving the website will result in a permanent loss of the data.": "最後に保存した後に変更を加えた場合、ウェブサイトを離れるとデータは永久に失われます。",
