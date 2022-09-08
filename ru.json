@@ -25,7 +25,7 @@
     "{1}. A dot won't match {2}": "{1}. Точка не будет соответствовать {2}",
     "{1}. All capturing groups {2} are instead treated as if they were non-capturing groups {3}.": "{1}. Вместо этого все захватываемые группы {2} обрабатываются так, как будто они не являются захватываемыми группами {3}.",
     "{1}. All matches (don't return after first match)": "{1}. Все совпадения (не прерываться после первой найденной подстроки)",
-    "{1}. Apply case insensitive matching to unicode characters in accordance with the unicode standard": "{1}. Apply case insensitive matching to unicode characters in accordance with the unicode standard",
+    "{1}. Apply case insensitive matching to unicode characters in accordance with the unicode standard": "{1}. Выполнить регистронезависимое сопоставление символов Юникод в соответствии со стандартом Юникод",
     "{1}. Capturing groups {2} are no longer treated as if they were non-capturing groups {3}.": "{1}. Capturing groups {2} are no longer treated as if they were non-capturing groups {3}.",
     "{1}. Case insensitive match (ignores case of {2})": "{1}. Регистронезависимый поиск (игнорирует регистр {2})",
     "{1}. Case insensitive matching is only applied to the US-ASCII character set": "{1}. Соответствие без учета регистра применяется только к набору символов US-ASCII.",
