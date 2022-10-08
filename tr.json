@@ -55,7 +55,7 @@
     "$ matches only end of pattern": "$ desenin yalnızca sonuyla eşleşir",
     "3 or more of a": "3 veya daha fazla",
     "A case insensitive match is performed, meaning capital letters will be matched by non-capital letters and vice versa.": "Büyük/küçük harfe duyarlı olmayan bir eşleşme gerçekleştirilir; bu, büyük harflerin büyük olmayan harflerle eşleştirileceği veya bunun tersi anlamına gelir.",
-    "A character except: a, b or c": "Karakter bekleniyor: a, b veya c",
+    "A character except: a, b or c": "Şunlar dışında bir karakter: a, b veya c",
     "A character in the range: a-z": "Karakter aralığı: a-z",
     "A character in the range: a-z or A-Z": "Karakter aralığı: a-z veya A-Z",
     "A character not in the range: a-z": "Karakter aralığında olmayan: a-z",
