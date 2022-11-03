@@ -169,7 +169,7 @@
     "Become a sponsor!": "Become a sponsor!",
     "Before even attempting a match, the regex engine makes some checks, such as the length of the string. If it is not long enough to fit the pattern, it will automatically return a no match. This optimization can be disabled by using this modifier.": "Antes mesmo de tentar uma correspondência, o mecanismo regex faz algumas verificações, como o comprimento da string. Se não for longo o suficiente para se ajustar ao padrão, ele retornará automaticamente uma não correspondência. Essa otimização pode ser desabilitada usando este modificador.",
     "Before Match": "Before Match",
-    "Between 3 and 6 of a": "Between 3 and 6 of a",
+    "Between 3 and 6 of a": "Entre 3 e 6 de um",
     "Bogus escape: this escape is not recognized in the python flavor": "Bogus escape: this escape is not recognized in the python flavor",
     "Branch Reset Group": "Branch Reset Group",
     "Bug Reports & Feedback": "Bug Reports & Feedback",
