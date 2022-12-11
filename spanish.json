@@ -1037,6 +1037,7 @@
     "This capturing group can be referred to using the given name instead of a number. Alternative notation for {1} or {2}.": "Se puede hacer referencia a este grupo de captura utilizando el nombre dado en lugar de un número. Notación alternativa para {1} o {2}.",
     "This capturing group can be referred to using the given name instead of a number. Alternative notation for {1}.": "Se puede hacer referencia a este grupo de captura utilizando el nombre dado en lugar de un número. Notación alternativa para {1}.",
     "This causes the regex to end successfully, skipping the rest of the pattern.": "Esto hace que la expresión termine satisfactoriamente, ignorando el resto del patrón.",
+    "This construct cannot be used with the {1} option": "This construct cannot be used with the {1} option",
     "This construct may not be supported in all browsers": "Es posible que esta construcción no sea compatible con todos los navegadores web.",
     "This enables the dot metacharacter {1} to also match newlines. The whole string is treated as a single line input.": "Esto permite que el metacarácter de punto {1} también coincida con las nuevas líneas. La cadena completa se trata como una entrada de una sola línea.",
     "This flag does not exist in Python2, as by default your script is parsed in ascii mode. In Python3 this will behave as described.": "Este modificador no existe en Python2, dado que, por defecto, el script se procesa en modo ASCII. En Python3 esto funcionará tal como se describe.",
