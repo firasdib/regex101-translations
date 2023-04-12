@@ -370,6 +370,7 @@
     "Group Constructs": "Gruppkonstruktioner",
     "group did not participate in match": "gruppen deltog inte i matchen",
     "Groups are no longer implicitly capturing": "Groups are no longer implicitly capturing",
+    "Groups have been nested too deeply, consider simplifying your pattern": "Groups have been nested too deeply, consider simplifying your pattern",
     "Groups with the same index must either have the same name or both be non-named groups": "Grupper med samma index måste antingen ha samma namn eller båda vara icke-bevarande grupper",
     "Headers": "Titlar",
     "here": "here",

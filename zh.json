@@ -370,6 +370,7 @@
     "Group Constructs": "子组结构",
     "group did not participate in match": "分组没有参与匹配",
     "Groups are no longer implicitly capturing": "分组不再是隐式捕获的",
+    "Groups have been nested too deeply, consider simplifying your pattern": "Groups have been nested too deeply, consider simplifying your pattern",
     "Groups with the same index must either have the same name or both be non-named groups": "有相同索引的组必须有相同的名称或两者都是非命名组",
     "Headers": "头",
     "here": "here",

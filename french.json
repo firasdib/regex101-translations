@@ -370,6 +370,7 @@
     "Group Constructs": "Constructions de regroupement",
     "group did not participate in match": "groupe n'a pas participé dans la correpondance",
     "Groups are no longer implicitly capturing": "Groups are no longer implicitly capturing",
+    "Groups have been nested too deeply, consider simplifying your pattern": "Groups have been nested too deeply, consider simplifying your pattern",
     "Groups with the same index must either have the same name or both be non-named groups": "Les groupes ayant le même index doivent avoir le même nom, ou ne doivent pas être nommés",
     "Headers": "En-têtes",
     "here": "here",
