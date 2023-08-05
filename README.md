@@ -1,6 +1,6 @@
 # Translations for regex101
 
-We've set up a weblate instance at [https://r101.cf](https://r101.cf), which is a collaborative translation platform. The keys are the english words, and those cannot be edited. They need to remain identical. If there is a typo or problem, open an issue/inform me and I'll sort it out. Strings may contain placeholders, indicated with `{n}` where `n` is a positive number greater than zero. Do not remove these, but feel free to move them around. Quite often you can figure out what they are inserting (almost always a non-translatable string, such as a number).
+We've set up a weblate instance at [https://translate.working.name](https://translate.working.name/projects/translate-regex101-com/site/), which is a collaborative translation platform. The keys are the english words, and those cannot be edited. They need to remain identical. If there is a typo or problem, open an issue/inform me and I'll sort it out. Strings may contain placeholders, indicated with `{n}` where `n` is a positive number greater than zero. Do not remove these, but feel free to move them around. Quite often you can figure out what they are inserting (almost always a non-translatable string, such as a number).
 
 If you cannot find a language you're interested in translating, you may add it yourself from r101.cf, once you're logged in.
 
