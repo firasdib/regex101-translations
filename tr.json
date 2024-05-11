@@ -161,6 +161,7 @@
     "Author": "Yazar",
     "Automatic": "Otomatik",
     "Available keyboard shortcuts": "Available keyboard shortcuts",
+    "Avoid using this legacy syntax for any new patterns": "Avoid using this legacy syntax for any new patterns",
     "Backreference": "Backreference",
     "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.": "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.",
     "Backspace": "Backspace",

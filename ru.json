@@ -161,6 +161,7 @@
     "Author": "Автор",
     "Automatic": "Автоматический",
     "Available keyboard shortcuts": "Доступные сочетания клавиш",
+    "Avoid using this legacy syntax for any new patterns": "Avoid using this legacy syntax for any new patterns",
     "Backreference": "Обратная ссылка",
     "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.": "Обратные ссылки нельзя размещать внутри символьных классах. Если вы хотели создать восьмеричную escape-последовательность, добавьте к escape-коду префикс 0.",
     "Backspace": "Backspace",
