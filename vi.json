@@ -1,6 +1,6 @@
 {
     "'{0}' found at index {1}": "Tìm thấy '{0}' tại chỉ số {1}",
-    "(except for line terminators)": "",
+    "(except for line terminators)": "(ngoại trừ các ký tự kết thúc dòng)",
     "{1} Alternative": "",
     "{1} and {2} are also available with the use of '{3}'": "",
     "{1} can be used to match the same text the third preceding capture group matched and captured.": "",
