@@ -1,8 +1,8 @@
 {
     "'{0}' found at index {1}": "Tìm thấy '{0}' tại chỉ số {1}",
     "(except for line terminators)": "(ngoại trừ các ký tự kết thúc dòng)",
-    "{1} Alternative": "",
-    "{1} and {2} are also available with the use of '{3}'": "",
+    "{1} Alternative": "{1} Thay thế",
+    "{1} and {2} are also available with the use of '{3}'": "{1} và {2} cũng có sẵn với việc sử dụng '{3}'",
     "{1} can be used to match the same text the third preceding capture group matched and captured.": "",
     "{1} Capturing Group": "{1} Nhóm bắt",
     "{1} is a line separator which can stand for {2}, {3}, {4}, or {5}.": "",
@@ -1109,5 +1109,8 @@
     "Your workspace has been successfully submitted to the library!": "",
     "zero": "không",
     "Zero or more of a": "",
-    "Zero or one of a": ""
+    "Zero or one of a": "",
+    "{1} always fails to match": "{1} luôn không khớp",
+    "{1} always finds a zero-length match": "{1} luôn tìm thấy kết quả khớp có độ dài bằng 0",
+    "{1} and {2} match start/end of line": "{1} và {2} khớp với bắt đầu / kết thúc dòng"
 }
