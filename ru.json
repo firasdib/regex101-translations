@@ -844,7 +844,7 @@
     "Non-capturing Group. Matches the tokens contained with the following effective flags: {1}": "Незахватывающая группа. Сопоставляет содержащиеся токены со следующими действующими флагами: {1}",
     "Non-capturing groups": "Non-capturing groups",
     "Non-word boundary": "Non-word boundary",
-    "None": "None",
+    "None": "Нет",
     "not": "не",
     "Note that {1} is wrapped in a superfluous capture group to help visually identify its match in the example string.": "Note that {1} is wrapped in a superfluous capture group to help visually identify its match in the example string.",
     "Note that clicking any of the links above will refresh the page. Your data will be saved to local storage and restored once you return to the website.": "Обратите внимание, что нажатие любой из приведённых выше ссылок обновит страницу. Ваши данные будут сохранены в локальном хранилище и восстановлены, как только вы вернётесь на сайт.",
