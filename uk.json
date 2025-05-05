@@ -1,5 +1,5 @@
 {
-    "'{0}' found at index {1}": "'{0}' знайдео за індексом {1}",
+    "'{0}' found at index {1}": "'{0}' знайдено за індексом {1}",
     "(except for line terminators)": "(крім обмежувачів рядків)",
     "{1} Alternative": "{1} Альтернатива",
     "{1} and {2} are also available with the use of '{3}'": "{1} та {2} також доступні з використанням '{3}'",
