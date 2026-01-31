@@ -404,6 +404,7 @@
     "Get help on {1}": "Get help on {1}",
     "Get the app": "Get the app",
     "Get the Desktop Application": "Get the Desktop Application",
+    "Get the Regex Parser": "Get the Regex Parser",
     "Given a regular expression that has capture groups, you may refer to them (by number or name) and perform a conditional replacement.": "给定一个具有捕获组的正则表达式，您可以引用它们（按编号或名称）并执行条件替换。",
     "given the string {1} assert that {2} {3} {4}": "给定字符串 {1} 断言 {2} {3} {4}",
     "given the test string": "given the test string",
