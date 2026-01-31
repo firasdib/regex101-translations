@@ -1223,6 +1223,7 @@
     "This token may not be used inside of the {1} construct": "This token may not be used inside of the {1} construct",
     "This token must be escaped when the {1} flag is enabled unless they form a valid quantifier": "Esta variable debe escaparse cuando se activa el modificador {1} a menos de que formen un cuantificador válido",
     "This token references a non-existent or invalid subpattern": "Este modificador refiere a un subpatrón inexistente o inválido",
+    "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",
     "this verb causes the match to end successfully, skipping the remainder of the pattern": "este verbo hace que la búsqueda termine con éxito, omitiendo el resto del patrón, modelo o cadana",
     "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match": "este verbo hace que la búsqueda falle al inicio actual del texto bajo consulta si el resto del patrón no coincide",
     "this verb disables JIT compilation of the pattern": "este verbo deshabilita la compilación JIT del patrón",

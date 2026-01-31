@@ -1223,6 +1223,7 @@
     "This token may not be used inside of the {1} construct": "此令牌不能在 {1} 构造内使用",
     "This token must be escaped when the {1} flag is enabled unless they form a valid quantifier": "启用 {1} 标志时必须转义此标记，除非它们形成有效的量词",
     "This token references a non-existent or invalid subpattern": "此记号引用了不存在或无效的子模式",
+    "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",
     "this verb causes the match to end successfully, skipping the remainder of the pattern": "此动词导致匹配成功结束，跳过模式的其余部分",
     "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match": "如果模式的其余部分不匹配，则此动词会导致匹配在主题的当前起始位置失败",
     "this verb disables JIT compilation of the pattern": "此动词禁用模式的 JIT 编译",

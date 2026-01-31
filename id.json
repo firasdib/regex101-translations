@@ -1224,6 +1224,7 @@
     "This token may not be used inside of the {1} construct": "This token may not be used inside of the {1} construct",
     "This token must be escaped when the {1} flag is enabled unless they form a valid quantifier": "This token must be escaped when the {1} flag is enabled unless they form a valid quantifier",
     "This token references a non-existent or invalid subpattern": "This token references a non-existent or invalid subpattern",
+    "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",
     "this verb causes the match to end successfully, skipping the remainder of the pattern": "this verb causes the match to end successfully, skipping the remainder of the pattern",
     "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match": "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match",
     "this verb disables JIT compilation of the pattern": "this verb disables JIT compilation of the pattern",

@@ -1223,6 +1223,7 @@
     "This token may not be used inside of the {1} construct": "Esse sinal não pode ser usado dentro de uma construção {1}",
     "This token must be escaped when the {1} flag is enabled unless they form a valid quantifier": "Esse sinal precisa ser escapado quando o sinalizador {1} é ativo a menos que eles formem um quantificador válido",
     "This token references a non-existent or invalid subpattern": "Esse sinal referência um subpadrão inexistente ou invalido",
+    "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",
     "this verb causes the match to end successfully, skipping the remainder of the pattern": "this verb causes the match to end successfully, skipping the remainder of the pattern",
     "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match": "this verb causes the match to fail at the current starting position in the subject if the rest of the pattern does not match",
     "this verb disables JIT compilation of the pattern": "this verb disables JIT compilation of the pattern",
