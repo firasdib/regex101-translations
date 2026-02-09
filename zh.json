@@ -1158,6 +1158,7 @@
     "The DEFINE group is completely ignored by regex. It gets treated as a var name=\"value\", whereas you can recall the specific pattern for use via its name. Multiple patterns can be defined in the same DEFINE group.": "DEFINE(定义)组内容不会进行匹配，而是为特定组名定义对应的子表达式，供随后调用。可在一个定义组内定义多条子表达式。",
     "The engine will per default do lazy matching, instead of greedy. This reverses the meaning of {1}, which will now make the previous quantifier greedy.": "引擎默认会进行惰性匹配，而不是贪婪匹配。这会反转 {1} 的含义，现在会使前一个量词变得贪婪。",
     "The escape sequence to match backspace is not supported in the selected flavor": "所选风格不支持与退格符匹配的转义序列",
+    "The example below highlights a case where a non-possessive quantifier would normally have matched": "The example below highlights a case where a non-possessive quantifier would normally have matched",
     "The internal recursion limit was reached.": "已达到内部递归限制。",
     "The Java regex engine reached the maximum call stack size.": "Java 正则表达式引擎已达到最大调用堆栈大小。",
     "The live version of the website was not able to be loaded. This could either be because of a server outage, or your internet connection. Please try again later.": "无法加载网站的实时版本。这可能是由于服务器故障或您的互联网连接问题。请稍后重试。",
