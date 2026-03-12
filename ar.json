@@ -185,6 +185,7 @@
     "Backspace": "Backspace",
     "Backspace character": "Backspace character",
     "Backticks can not be used in a raw string, use {1} instead": "Backticks can not be used in a raw string, use {1} instead",
+    "Bad subpattern name. Ensure it does not contain anything but letters and digits": "Bad subpattern name. Ensure it does not contain anything but letters and digits",
     "Bad subpattern name. Ensure it is alpha numeric and does not begin with a digit": "Bad subpattern name. Ensure it is alpha numeric and does not begin with a digit",
     "Balancing Group": "Balancing Group",
     "Balancing Named Capturing Group": "Balancing Named Capturing Group",

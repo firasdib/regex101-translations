@@ -185,6 +185,7 @@
     "Backspace": "Backspace",
     "Backspace character": "退格符",
     "Backticks can not be used in a raw string, use {1} instead": "原始字符串中不能使用反引号，请改用 {1}",
+    "Bad subpattern name. Ensure it does not contain anything but letters and digits": "Bad subpattern name. Ensure it does not contain anything but letters and digits",
     "Bad subpattern name. Ensure it is alpha numeric and does not begin with a digit": "子模式名称错误。请确保它是字母数字且不以数字开头",
     "Balancing Group": "Balancing Group",
     "Balancing Named Capturing Group": "命名捕获型平衡组",
