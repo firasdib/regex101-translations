@@ -1275,6 +1275,7 @@
     "This setting determines for how long the benchmark executes to evaluate your regular expression": "This setting determines for how long the benchmark executes to evaluate your regular expression",
     "This setting determines whether groups in your regex, which did not match anything in the subject string, should be included in the results or not": "此设置决定“匹配信息”中是否显示没有参与匹配的分组",
     "This token can not be used in a lookaround due to either making it non-fixed width or interfering with the pattern matching": "由于宽度不固定或干扰模式匹配，此标记不能用于环视",
+    "This token cannot be used with the selected delimiter": "This token cannot be used with the selected delimiter",
     "This token has no special meaning and has thus been rendered erroneous": "此记号没有特殊含义，因此被认为是错误的",
     "This token is either not supported by the selected flavor or by regex101": "所选风格或 regex101 不支持此标记",
     "This token is not valid under strict mode, and may cause certain browsers to throw errors. If you need to reference this subpattern, use the {1} syntax, otherwise use the token literally.": "此令牌在严格模式下无效，可能会导致某些浏览器抛出错误。如果您需要引用此子模式，请使用 {1} 语法，否则请按字面意思使用该令牌。",
