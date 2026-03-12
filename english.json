@@ -1277,6 +1277,7 @@
     "This token has no special meaning and has thus been rendered erroneous": "This token has no special meaning and has thus been rendered erroneous",
     "This token is either not supported by the selected flavor or by regex101": "This token is either not supported by the selected flavor or by regex101",
     "This token is not valid under strict mode, and may cause certain browsers to throw errors. If you need to reference this subpattern, use the {1} syntax, otherwise use the token literally.": "This token is not valid under strict mode, and may cause certain browsers to throw errors. If you need to reference this subpattern, use the {1} syntax, otherwise use the token literally.",
+    "This token may not be used inside a character class": "This token may not be used inside a character class",
     "This token may not be used inside of the {1} construct": "This token may not be used inside of the {1} construct",
     "This token references a non-existent or invalid subpattern": "This token references a non-existent or invalid subpattern",
     "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",

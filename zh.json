@@ -1279,6 +1279,7 @@
     "This token has no special meaning and has thus been rendered erroneous": "此记号没有特殊含义，因此被认为是错误的",
     "This token is either not supported by the selected flavor or by regex101": "所选风格或 regex101 不支持此标记",
     "This token is not valid under strict mode, and may cause certain browsers to throw errors. If you need to reference this subpattern, use the {1} syntax, otherwise use the token literally.": "此令牌在严格模式下无效，可能会导致某些浏览器抛出错误。如果您需要引用此子模式，请使用 {1} 语法，否则请按字面意思使用该令牌。",
+    "This token may not be used inside a character class": "This token may not be used inside a character class",
     "This token may not be used inside of the {1} construct": "此令牌不能在 {1} 构造内使用",
     "This token references a non-existent or invalid subpattern": "此记号引用了不存在或无效的子模式",
     "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.": "This token requires Unicode mode. Without it, the pattern may match invalid UTF‑8.",
