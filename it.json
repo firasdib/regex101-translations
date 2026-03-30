@@ -178,7 +178,6 @@
     "Automatic test execution": "Automatic test execution",
     "Automatic will infer the preferred theme from the host system": "Automatico inferirà il tema preferito dal sistema host",
     "Avoid using this legacy syntax for any new patterns": "Evita di usare questa sintassi obsoleta per i nuovi pattern",
-    "Back Regex101 now": "Back Regex101 now",
     "Backer": "Backer",
     "Backreference": "Riferimento inverso",
     "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.": "I riferimenti inversi non possono essere inseriti all'interno delle classi di caratteri. Se intendevi creare una sequenza di escape ottale, precedi l'escape con uno 0.",

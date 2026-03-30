@@ -178,7 +178,6 @@
     "Automatic test execution": "Automatic test execution",
     "Automatic will infer the preferred theme from the host system": "自动将从系统推断出首选主题",
     "Avoid using this legacy syntax for any new patterns": "避免将这种遗留语法用于任何新模式",
-    "Back Regex101 now": "Back Regex101 now",
     "Backer": "Backer",
     "Backreference": "反向引用",
     "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.": "反向引用不能放在字符类内。如果您要创建八进制转义，请在转义前加上 0。",

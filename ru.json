@@ -178,7 +178,6 @@
     "Automatic test execution": "Automatic test execution",
     "Automatic will infer the preferred theme from the host system": "Автоматически определит предпочтительную тему из хост-системы",
     "Avoid using this legacy syntax for any new patterns": "Avoid using this legacy syntax for any new patterns",
-    "Back Regex101 now": "Back Regex101 now",
     "Backer": "Backer",
     "Backreference": "Обратная ссылка",
     "Backreferences may not be placed inside character classes. If you meant to create an octal escape, prefix the escape with a 0.": "Обратные ссылки нельзя размещать внутри символьных классах. Если вы хотели создать восьмеричную escape-последовательность, добавьте к escape-коду префикс 0.",
