@@ -1324,7 +1324,7 @@
     "This setting defines how text escapes should be explained in the editor. Choose if alternate notations should be included or not.": "此设置定义应如何在编辑器中解释文本转义。选择是否应包含替代符号。",
     "This setting determines for how long the benchmark executes to evaluate your regular expression": "This setting determines for how long the benchmark executes to evaluate your regular expression",
     "This setting determines whether groups in your regex, which did not match anything in the subject string, should be included in the results or not": "此设置决定“匹配信息”中是否显示没有参与匹配的分组",
-    "This token can not be used in a lookaround due to either making it non-fixed width or interfering with the pattern matching": "由于宽度不固定或干扰模式匹配，此标记不能用于环视",
+    "This token can not be used in the parent construct due to either making it non-fixed width or interfering with the pattern matching": "This token can not be used in the parent construct due to either making it non-fixed width or interfering with the pattern matching",
     "This token cannot be used with the selected delimiter": "This token cannot be used with the selected delimiter",
     "This token has no special meaning and has thus been rendered erroneous": "此记号没有特殊含义，因此被认为是错误的",
     "This token is either not supported by the selected flavor or by regex101": "所选风格或 regex101 不支持此标记",

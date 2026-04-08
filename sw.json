@@ -1325,7 +1325,7 @@
     "This setting defines how text escapes should be explained in the editor. Choose if alternate notations should be included or not.": "This setting defines how text escapes should be explained in the editor. Choose if alternate notations should be included or not.",
     "This setting determines for how long the benchmark executes to evaluate your regular expression": "This setting determines for how long the benchmark executes to evaluate your regular expression",
     "This setting determines whether groups in your regex, which did not match anything in the subject string, should be included in the results or not": "This setting determines whether groups in your regex, which did not match anything in the subject string, should be included in the results or not",
-    "This token can not be used in a lookaround due to either making it non-fixed width or interfering with the pattern matching": "This token can not be used in a lookaround due to either making it non-fixed width or interfering with the pattern matching",
+    "This token can not be used in the parent construct due to either making it non-fixed width or interfering with the pattern matching": "This token can not be used in the parent construct due to either making it non-fixed width or interfering with the pattern matching",
     "This token cannot be used with the selected delimiter": "This token cannot be used with the selected delimiter",
     "This token has no special meaning and has thus been rendered erroneous": "This token has no special meaning and has thus been rendered erroneous",
     "This token is either not supported by the selected flavor or by regex101": "This token is either not supported by the selected flavor or by regex101",
