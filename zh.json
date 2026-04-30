@@ -857,6 +857,7 @@
     "Matches anything other than a letter, digit or underscore. Equivalent to {1}": "匹配不是字母、数字或下划线的任意字符，等价于 {1}",
     "Matches anything other than a space, tab or newline.": "匹配除空格、制表符和换行符以外的字符。",
     "matches anything that {1} does not": "matches anything that {1} does not",
+    "Matches are still being processed": "Matches are still being processed",
     "Matches as few characters as possible.": "仅匹配最少量的必要相符内容。",
     "Matches as many characters as possible; backtracking can't reduce the number of characters matched. Because it is greedy, it will match all the way to the last digit, leaving nothing else for the {1} to match. Without backtracking, this regex fails to produce a match.": "尽可能多地匹配相符内容，并禁止随后的匹配项进行回溯匹配。范例中，d++匹配占用了所有数字，没为.留下任何可匹配字符，故整条匹配式匹配失败。",
     "Matches as many characters as possible.": "尽可能多地匹配相符内容。",

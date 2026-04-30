@@ -857,6 +857,7 @@
     "Matches anything other than a letter, digit or underscore. Equivalent to {1}": "Соответствует чему угодно, кроме буквы, цифры или символа подчёркивания. Эквивалент {1}",
     "Matches anything other than a space, tab or newline.": "Соответствует чему угодно, кроме символа пробела, табуляции или новой строки.",
     "matches anything that {1} does not": "matches anything that {1} does not",
+    "Matches are still being processed": "Matches are still being processed",
     "Matches as few characters as possible.": "Соответствует как можно меньшему количеству символов.",
     "Matches as many characters as possible; backtracking can't reduce the number of characters matched. Because it is greedy, it will match all the way to the last digit, leaving nothing else for the {1} to match. Without backtracking, this regex fails to produce a match.": "Matches as many characters as possible; backtracking can't reduce the number of characters matched. Because it is greedy, it will match all the way to the last digit, leaving nothing else for the {1} to match. Without backtracking, this regex fails to produce a match.",
     "Matches as many characters as possible.": "Соответствует как можно большему числу символов.",

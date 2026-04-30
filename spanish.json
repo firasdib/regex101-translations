@@ -857,6 +857,7 @@
     "Matches anything other than a letter, digit or underscore. Equivalent to {1}": "Matches anything other than a letter, digit or underscore. Equivalent to {1}",
     "Matches anything other than a space, tab or newline.": "Coincide con cualquier cosa que no sea un espacio, tabulación, o salto de línea.",
     "matches anything that {1} does not": "matches anything that {1} does not",
+    "Matches are still being processed": "Matches are still being processed",
     "Matches as few characters as possible.": "Coincide con la mínima cantidad de caracteres posible.",
     "Matches as many characters as possible; backtracking can't reduce the number of characters matched. Because it is greedy, it will match all the way to the last digit, leaving nothing else for the {1} to match. Without backtracking, this regex fails to produce a match.": "Coincide con cuantos caracteres sea posible; la búsqueda en reversa no podrá reducir el número de caracteres que coincidan. Dado que es avariciosa, coincidirá hasta el último dígito, sin dejar nada más para que coincida el {1}. Sin búsqueda en reversa, esta expresión no encontrará ninguna coincidencia.",
     "Matches as many characters as possible.": "Coincide con la máxima cantidad de caracteres posible.",
