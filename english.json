@@ -1141,6 +1141,8 @@
     "PCRE2 forbids lookbehind backreferences with branch reset groups": "PCRE2 forbids lookbehind backreferences with branch reset groups",
     "PCRE2 last-group insertion requires a capture group": "PCRE2 last-group insertion requires a capture group",
     "PCRE2 lookbehinds forbid zero quantifiers on variable-width tokens": "PCRE2 lookbehinds forbid zero quantifiers on variable-width tokens",
+    "PCRE2 mark insertion must use {1} or {2}": "PCRE2 mark insertion must use {1} or {2}",
+    "PCRE2 named group insertion uses {1}, not Perl syntax {2}": "PCRE2 named group insertion uses {1}, not Perl syntax {2}",
     "PCRE2 replacement conditionals cannot exceed 10 nesting levels": "PCRE2 replacement conditionals cannot exceed 10 nesting levels",
     "PCRE2 scan-substring group name does not exist": "PCRE2 scan-substring group name does not exist",
     "PCRE2 scan-substring group number is out of range": "PCRE2 scan-substring group number is out of range",
