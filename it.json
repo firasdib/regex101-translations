@@ -390,7 +390,6 @@
     "Disallow meaningless escapes": "Non ammettere escape inutili",
     "Disallows backtracking past {1}'s position, and gives up matching the current alternation if there's a failure. If instead {1} is used outside of an alternation, it will act like {3}. Equivalent to {2}.": "Non consente il backtracking oltre la posizione di {1} e rinuncia a corrispondere l'alternativa corrente in caso di fallimento. Se invece {1} viene utilizzato al di fuori di un'alternativa, si comporterà come {3}. Equivalente a {2}.",
     "Discard Changes": "Discard Changes",
-    "Dismiss for now": "Dismiss for now",
     "Do note that these tasks do not necessarily promote best practices in real life scenarios, but rather aim to teach you the fundamentals of writing powerful regular expressions.": "Tieni presente che queste attività non promuovono necessariamente le migliori pratiche in scenari reali, ma hanno l'obiettivo di insegnarti i fondamenti per scrivere espressioni regolari potenti.",
     "does {1} match": "corrisponde a {1}",
     "does match": "Corrisponde",

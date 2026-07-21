@@ -390,7 +390,6 @@
     "Disallow meaningless escapes": "禁止模式中的反斜线后面跟上一个没有特殊意义的字母",
     "Disallows backtracking past {1}'s position, and gives up matching the current alternation if there's a failure. If instead {1} is used outside of an alternation, it will act like {3}. Equivalent to {2}.": "不允许回溯到 {1} 的位置，如果失败则放弃匹配当前交替。如果在交替之外使用 {1}，则其作用类似于 {3}。等同于 {2}。",
     "Discard Changes": "Discard Changes",
-    "Dismiss for now": "Dismiss for now",
     "Do note that these tasks do not necessarily promote best practices in real life scenarios, but rather aim to teach you the fundamentals of writing powerful regular expressions.": "请注意，这些任务不一定会促进现实场景中的最佳实践，而是旨在教会你编写强大的正则表达式的基础知识。",
     "does {1} match": "{1}匹配",
     "does match": "匹配",
