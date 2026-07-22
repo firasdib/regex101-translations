@@ -1181,6 +1181,7 @@
     "Positive Lookahead": "Позитивная опережающая проверка",
     "Positive Lookbehind": "Позитивная ретроспективная проверка",
     "POSIX character class is unknown": "POSIX character class is unknown",
+    "POSIX Class": "POSIX Class",
     "POSIX class must appear inside a character class": "POSIX class must appear inside a character class",
     "POSIX word boundary must be the only character class item": "POSIX word boundary must be the only character class item",
     "possessive": "possessive",
