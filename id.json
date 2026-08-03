@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Offset backreference relatif berada di luar rentang",
     "Relative subroutine offset cannot be zero": "Offset subrutin relatif tidak boleh nol",
     "Relative subroutine offset is out of range": "Offset subrutin relatif berada di luar rentang",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevansi",
     "Reload page": "Muat ulang halaman",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Andalkan angka nyata, bukan tebakan. Ukur waktu proses regex sebelum pola lambat mencapai produksi.",

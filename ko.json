@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "상대 역참조 오프셋이 범위를 벗어났습니다",
     "Relative subroutine offset cannot be zero": "상대 서브루틴 오프셋은 0일 수 없습니다",
     "Relative subroutine offset is out of range": "상대 서브루틴 오프셋이 범위를 벗어났습니다",
+    "Release timeline": "Release timeline",
     "Relevance": "관련성",
     "Reload page": "페이지 새로 고침",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "추측이 아닌 확실한 수치에 의존하세요. 느린 패턴이 운영 환경에 도달하기 전에 정규식 실행 시간을 측정하세요.",

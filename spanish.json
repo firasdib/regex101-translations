@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "El desplazamiento de la referencia inversa relativa está fuera de rango",
     "Relative subroutine offset cannot be zero": "El desplazamiento de la subrutina relativa no puede ser cero",
     "Relative subroutine offset is out of range": "El desplazamiento de la subrutina relativa está fuera de rango",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevancia",
     "Reload page": "Volver a cargar la página",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Confía en cifras concretas, no en suposiciones. Mide el tiempo de ejecución de las expresiones regulares antes de que los patrones lentos lleguen a producción.",

@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Смещение относительной обратной ссылки вне допустимого диапазона",
     "Relative subroutine offset cannot be zero": "Смещение относительной подпрограммы не может быть равно нулю",
     "Relative subroutine offset is out of range": "Смещение относительной подпрограммы вне допустимого диапазона",
+    "Release timeline": "Release timeline",
     "Relevance": "Релевантность",
     "Reload page": "Перезагрузить страницу",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Полагайтесь на точные числа, а не на догадки. Измеряйте время работы регулярного выражения до того, как медленные шаблоны попадут в рабочую систему.",

@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Relative backreference offset is out of range",
     "Relative subroutine offset cannot be zero": "Relative subroutine offset cannot be zero",
     "Relative subroutine offset is out of range": "Relative subroutine offset is out of range",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevance",
     "Reload page": "Reload page",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.",

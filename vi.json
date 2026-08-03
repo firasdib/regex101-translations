@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Offset tham chiếu ngược tương đối nằm ngoài phạm vi",
     "Relative subroutine offset cannot be zero": "Offset chương trình con tương đối không thể bằng không",
     "Relative subroutine offset is out of range": "Offset chương trình con tương đối nằm ngoài phạm vi",
+    "Release timeline": "Release timeline",
     "Relevance": "Mức độ liên quan",
     "Reload page": "Tải lại trang",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Dựa vào số liệu thực, không phỏng đoán. Đo thời gian chạy regex trước khi các mẫu chậm đến production.",

@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Offset van relatieve backreference valt buiten het bereik",
     "Relative subroutine offset cannot be zero": "Offset van relatieve subroutine mag niet nul zijn",
     "Relative subroutine offset is out of range": "Offset van relatieve subroutine valt buiten het bereik",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevantie",
     "Reload page": "Pagina vernieuwen",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Vertrouw op harde cijfers, niet op giswerk. Meet de uitvoeringstijd van regexen voordat trage patronen productie bereiken.",

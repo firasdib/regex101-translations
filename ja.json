@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "相対バックリファレンスのオフセットが範囲外です",
     "Relative subroutine offset cannot be zero": "相対サブルーチンのオフセットは 0 にできません",
     "Relative subroutine offset is out of range": "相対サブルーチンのオフセットが範囲外です",
+    "Release timeline": "Release timeline",
     "Relevance": "関連性",
     "Reload page": "ページを再読み込み",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "推測ではなく確かな数値に頼りましょう。遅いパターンが本番環境に到達する前に実行時間を測定します。",

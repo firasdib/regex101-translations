@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Relativer Rückverweis-Offset liegt außerhalb des gültigen Bereichs",
     "Relative subroutine offset cannot be zero": "Relativer Unterroutinen-Offset darf nicht null sein",
     "Relative subroutine offset is out of range": "Relativer Unterroutinen-Offset liegt außerhalb des gültigen Bereichs",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevanz",
     "Reload page": "Seite neu laden",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Verlasse dich auf harte Zahlen statt auf Vermutungen. Miss die Regex-Laufzeit, bevor langsame Muster die Produktion erreichen.",

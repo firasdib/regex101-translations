@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Bağıl geri başvuru ofseti aralık dışında",
     "Relative subroutine offset cannot be zero": "Bağıl alt yordam ofseti sıfır olamaz",
     "Relative subroutine offset is out of range": "Bağıl alt yordam ofseti aralık dışında",
+    "Release timeline": "Release timeline",
     "Relevance": "Alaka düzeyi",
     "Reload page": "Sayfayı yeniden yükle",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Tahmine değil, kesin sayılara güvenin. Yavaş kalıplar üretime ulaşmadan önce regex çalışma süresini ölçün.",

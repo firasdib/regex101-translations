@@ -1431,6 +1431,7 @@
     "Relative backreference offset is out of range": "Relativ bakåtreferensoffset ligger utanför intervallet",
     "Relative subroutine offset cannot be zero": "Relativ subrutinoffset kan inte vara noll",
     "Relative subroutine offset is out of range": "Relativ subrutinoffset ligger utanför intervallet",
+    "Release timeline": "Release timeline",
     "Relevance": "Relevans",
     "Reload page": "Ladda om sidan",
     "Rely on hard numbers, not guesswork. Measure regex runtime before slow patterns reach production.": "Förlita dig på hårda siffror, inte gissningar. Mät regexets körtid innan långsamma mönster når produktion.",
