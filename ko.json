@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "{1}의 모든 항목과 다음 항목:",
     "Exactly 3 of a": "a의 정확히 3개",
     "Example rewrite:": "변환 예:",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "실행 타임라인",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "표현식에 재귀 루프가 포함되어 실행이 중단되었습니다. 즉, 테스트 문자열의 같은 위치에서 전체 패턴 또는 하위 패턴이 두 번째로 재귀 호출되었습니다.",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "오프셋이 유효한 UTF-16 문자의 시작을 가리키지 않아 실행이 중단되었습니다.",

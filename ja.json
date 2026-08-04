@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "{1} のすべてに加えて：",
     "Exactly 3 of a": "a をちょうど 3 個",
     "Example rewrite:": "書き換え例：",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "実行タイムライン",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "式に再帰ループが含まれているため実行を停止しました。これはテスト文字列の同じ位置で、パターン全体またはサブパターンが 2 回目の再帰呼び出しを受けたことを意味します。",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "オフセットが有効な UTF-16 文字の先頭を指していないため、実行を停止しました。",

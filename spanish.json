@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "Todo lo incluido en {1}, más:",
     "Exactly 3 of a": "Exactamente 3 de un",
     "Example rewrite:": "Ejemplo de reescritura:",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "Línea de tiempo de ejecución",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "La ejecución se detuvo porque la expresión contiene un bucle recursivo. Esto significa que todo el patrón o un subpatrón se llamó recursivamente por segunda vez en la misma posición de la cadena de prueba.",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "La ejecución se detuvo porque el desplazamiento no apunta al principio de un carácter UTF-16 válido.",

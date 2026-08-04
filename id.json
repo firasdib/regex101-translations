@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "Semua yang ada di {1}, ditambah:",
     "Exactly 3 of a": "Tepat 3 dari a",
     "Example rewrite:": "Contoh penulisan ulang:",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "Linimasa eksekusi",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "Eksekusi dihentikan karena ekspresi berisi loop rekursif. Artinya, seluruh pola atau subpola dipanggil secara rekursif untuk kedua kalinya pada posisi yang sama dalam string pengujian.",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "Eksekusi dihentikan karena offset tidak menunjuk ke awal karakter UTF-16 yang valid.",

@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "Всё из {1}, а также:",
     "Exactly 3 of a": "Ровно 3 повторения a",
     "Example rewrite:": "Пример преобразования:",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "Временная шкала выполнения",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "Выполнение остановлено, поскольку выражение содержит рекурсивный цикл. Это означает, что весь шаблон или подшаблон был рекурсивно вызван второй раз в той же позиции тестовой строки.",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "Выполнение остановлено, поскольку смещение не указывает на начало допустимого символа UTF-16.",

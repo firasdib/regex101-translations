@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "包含 {1} 中的所有内容，以及：",
     "Exactly 3 of a": "三个a",
     "Example rewrite:": "重写示例：",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "执行时间线",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "执行已停止，因为表达式包含递归循环。这意味着整个模式或子模式在测试字符串的同一位置被第二次递归调用。",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "执行已停止，因为偏移量没有指向有效 UTF-16 字符的开头。",

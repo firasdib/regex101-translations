@@ -516,6 +516,7 @@
     "Everything in {1}, plus:": "Mọi thứ trong {1}, cộng thêm:",
     "Exactly 3 of a": "Đúng  3 cái a",
     "Example rewrite:": "Ví dụ viết lại:",
+    "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.": "Execution stopped because the expression exceeded its internal state limit. This safeguard prevents excessive backtracking from running indefinitely. Refactor overlapping alternatives or nested repetitions to make each match path less ambiguous.",
     "Execution timeline": "Dòng thời gian thực thi",
     "Execution was halted because the expression contains a recursive loop. This means the whole pattern or a subpattern was called recursively for a second time at the same position in the test string.": "Đã dừng thực thi vì biểu thức chứa vòng lặp đệ quy. Điều này nghĩa là toàn bộ mẫu hoặc một mẫu con được gọi đệ quy lần thứ hai tại cùng vị trí trong chuỗi kiểm thử.",
     "Execution was halted because the offset does not point to the beginning of a valid UTF-16 character.": "Đã dừng thực thi vì offset không trỏ đến đầu một ký tự UTF-16 hợp lệ.",
