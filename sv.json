@@ -1470,6 +1470,7 @@
     "Regex Execution": "Regexkörning",
     "Regex Flags": "Regexflaggor",
     "Regex Flavor Guide": "Guide till regexvarianter",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Regexfrågesport",
     "Regex quiz access": "Åtkomst till regexfrågesporten",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Regexet fortsätter att tolka strängen med den senaste matchningspositionen i åtanke. Om nästa matchning inte ligger direkt efter den föregående förkastas nästa matchning.",

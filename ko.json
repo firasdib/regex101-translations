@@ -1470,6 +1470,7 @@
     "Regex Execution": "정규식 실행",
     "Regex Flags": "정규식 플래그",
     "Regex Flavor Guide": "정규식 플레이버 안내서",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "정규식 퀴즈",
     "Regex quiz access": "정규식 퀴즈 액세스",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "정규식은 마지막 일치 위치를 기억하며 문자열을 계속 파싱합니다. 다음 일치가 마지막 일치 바로 뒤에 있지 않으면 해당 일치는 버려집니다.",

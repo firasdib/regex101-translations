@@ -1470,6 +1470,7 @@
     "Regex Execution": "Thực thi Regex",
     "Regex Flags": "Cờ BTCQ",
     "Regex Flavor Guide": "Hướng dẫn Flavor Regex",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Bài kiểm tra Regex",
     "Regex quiz access": "Quyền truy cập bài kiểm tra Regex",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Regex sẽ tiếp tục phân tích chuỗi, ghi nhớ vị trí khớp cuối cùng. Nếu kết quả khớp tiếp theo không nằm ngay sau kết quả cuối, nó sẽ bị loại bỏ.",

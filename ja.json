@@ -1470,6 +1470,7 @@
     "Regex Execution": "正規表現の実行",
     "Regex Flags": "正規表現フラグ",
     "Regex Flavor Guide": "正規表現フレーバーガイド",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "正規表現クイズ",
     "Regex quiz access": "正規表現クイズへのアクセス",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "正規表現は最後のマッチ位置を考慮して文字列の解析を続けます。次のマッチが直後にない場合、そのマッチは破棄されます。",

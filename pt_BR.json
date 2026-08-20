@@ -1470,6 +1470,7 @@
     "Regex Execution": "Execução de regex",
     "Regex Flags": "Bandeiras de Regex",
     "Regex Flavor Guide": "Guia de flavors de regex",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Quiz de Regex",
     "Regex quiz access": "Acesso ao quiz de regex",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "A regex continuará analisando a string levando em conta a localização da última correspondência. Se a próxima correspondência não estiver localizada diretamente depois da última, ela será descartada.",

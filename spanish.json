@@ -1470,6 +1470,7 @@
     "Regex Execution": "Ejecución de expresiones regulares",
     "Regex Flags": "Modificadores de expresión",
     "Regex Flavor Guide": "Guía de variantes de expresiones regulares",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Cuestionario de expresiones regulares",
     "Regex quiz access": "Acceso al cuestionario de expresiones regulares",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Regex continuará procesando la cadena teniendo en cuenta la última ubicación de coincidencia. Si la siguiente coincidencia no está inmediatamente posterior a al última, esta coincidencia se descarta.",

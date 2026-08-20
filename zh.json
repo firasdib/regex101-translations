@@ -1470,6 +1470,7 @@
     "Regex Execution": "正则表达式执行",
     "Regex Flags": "正则修饰符",
     "Regex Flavor Guide": "正则表达式风格指南",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "正则测验",
     "Regex quiz access": "正则表达式测验访问权限",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "从上次匹配成功的下个位置开始后续匹配。若下个相符内容不紧接在后，则不继续匹配。",

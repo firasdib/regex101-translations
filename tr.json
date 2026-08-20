@@ -1470,6 +1470,7 @@
     "Regex Execution": "Regex çalıştırma",
     "Regex Flags": "Regex bayrakları",
     "Regex Flavor Guide": "Regex türü kılavuzu",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Regex testi",
     "Regex quiz access": "Regex testine erişim",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Regex, son eşleşme konumunu dikkate alarak dizeyi ayrıştırmaya devam eder. Sonraki eşleşme doğrudan son eşleşmenin ardından bulunmuyorsa bu sonraki eşleşme atılır.",

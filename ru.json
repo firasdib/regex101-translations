@@ -1470,6 +1470,7 @@
     "Regex Execution": "Выполнение регулярного выражения",
     "Regex Flags": "Флаги регулярки",
     "Regex Flavor Guide": "Руководство по вариантам синтаксиса регулярных выражений",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Викторина регулярок",
     "Regex quiz access": "Доступ к викторине по регулярным выражениям",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Регулярное выражение продолжит разбор строки, учитывая позицию последнего совпадения. Если следующее совпадение находится не непосредственно после последнего, это следующее совпадение отбрасывается.",

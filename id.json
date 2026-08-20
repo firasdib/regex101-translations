@@ -1470,6 +1470,7 @@
     "Regex Execution": "Eksekusi Regex",
     "Regex Flags": "Flag Regex",
     "Regex Flavor Guide": "Panduan Flavor Regex",
+    "Regex Intellisense": "Regex Intellisense",
     "Regex Quiz": "Kuis Regex",
     "Regex quiz access": "Akses kuis regex",
     "Regex will continue parsing the string keeping in mind the last match location. If the next match is not located directly after the last, this next match is discarded.": "Regex akan terus mengurai string dengan mengingat lokasi kecocokan terakhir. Jika kecocokan berikutnya tidak berada tepat setelah kecocokan terakhir, kecocokan tersebut dibuang.",
