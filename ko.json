@@ -1612,6 +1612,7 @@
     "Show warning popup when trying to leave site with unsaved data": "저장되지 않은 데이터와 함께 사이트를 나가려 할 때 경고 팝업 표시",
     "Sign In": "로그인",
     "Sign in to keep your work and preferences with you.": "Sign in to keep your work and preferences with you.",
+    "Sign in to proceed with your purchase.": "Sign in to proceed with your purchase.",
     "Sign Out": "로그아웃",
     "Similar to {1}, but with the main difference that whitespace is also ignored inside of character classes.": "{1}과(와) 비슷하지만 공백도 문자 클래스 안에서 무시된다는 점이 가장 큰 차이입니다.",
     "Single line": "단일 줄",
