@@ -886,6 +886,7 @@
     "Flavor": "语言风格",
     "Flavor Help": "风格帮助",
     "Flavor: {1}": "风格：{1}",
+    "Follow us on Bluesky!": "Follow us on Bluesky!",
     "Follow us on X!": "关注我们在 X 上的动态！",
     "For example, repeating 1-3 digits and a period 3 times can be done like this: {1}": "例如，重复3次的1-3个数字和1个句号，可以这样做：{1}",
     "For lookbehind, use {1}, {2}, or {3}.": "对于后行断言，请使用 {1}、{2} 或 {3}。",
