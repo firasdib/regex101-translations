@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Grupo atômico (não captura)",
     "Atomic Script Run": "Execução de script atômica",
     "Attempt": "Tentativa",
-    "Attempt {1} · {2} recorded steps": "Tentativa {1} · {2} etapas registradas",
     "Author (optional)": "Autor (opcional)",
     "Auto": "Automático",
     "Automatic": "Automático",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "um cluster de grafemas Unicode estendido",
     "One-Shot Lowercase Transformation": "Transformação única para minúsculas",
     "One-Shot Uppercase Transformation": "Transformação única para maiúsculas",
-    "Only the first {1} steps are shown.": "Somente as primeiras {1} etapas são mostradas.",
     "Only you can view workspace {1}.": "Somente você pode visualizar o espaço de trabalho {1}.",
     "Open {1} file": "Abrir {1} arquivo",
     "open an issue": "abrir uma issue",
@@ -1852,7 +1850,7 @@
     "Recommended": "Recomendado",
     "Record longer traces and follow execution across match attempts": "Grave traces mais longos e acompanhe a execução durante as tentativas de correspondência",
     "Record more": "Registrar mais",
-    "Recorded {1} steps and {2} attempts": "{1} etapas e {2} tentativas registradas",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Registrando o rastreamento da execução…",
     "Recover local workspaces": "Recuperar workspaces locais",
     "Recover saved work": "Recuperar trabalho salvo",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Seu upgrade ainda está sendo processado. Atualize mais tarde para verificar seu acesso ao Pro.",
     "Your workspace has been published to the Community Library. {1}": "Seu espaço de trabalho foi publicado na Biblioteca da Comunidade. {1}",
     "Zero or more of a": "Zero ou mais de a",
-    "Zero or one of a": "Zero ou um a"
+    "Zero or one of a": "Zero ou um a",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

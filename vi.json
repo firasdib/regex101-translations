@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Nhóm nguyên tử (không bắt)",
     "Atomic Script Run": "Lần chạy tập lệnh nguyên tử",
     "Attempt": "Lần thử",
-    "Attempt {1} · {2} recorded steps": "Lần thử {1} · đã ghi {2} bước",
     "Author (optional)": "Tác giả (tùy chọn)",
     "Auto": "Tự động",
     "Automatic": "Tự động",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "một cụm grapheme mở rộng Unicode",
     "One-Shot Lowercase Transformation": "Biến đổi chữ thường một lần",
     "One-Shot Uppercase Transformation": "Biến đổi chữ hoa một lần",
-    "Only the first {1} steps are shown.": "Chỉ hiển thị {1} bước đầu tiên.",
     "Only you can view workspace {1}.": "Chỉ bạn mới có thể xem không gian làm việc {1}.",
     "Open {1} file": "Mở tệp {1}",
     "open an issue": "mở một vấn đề",
@@ -1852,7 +1850,7 @@
     "Recommended": "Đề xuất",
     "Record longer traces and follow execution across match attempts": "Ghi lại trace dài hơn và theo dõi quá trình thực thi trong các lần thử khớp",
     "Record more": "Ghi thêm",
-    "Recorded {1} steps and {2} attempts": "Đã ghi {1} bước và {2} lần thử",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Đang ghi dấu vết thực thi…",
     "Recover local workspaces": "Khôi phục không gian làm việc cục bộ",
     "Recover saved work": "Khôi phục công việc đã lưu",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Nâng cấp của bạn vẫn đang được xử lý. Hãy tải lại sau để kiểm tra quyền truy cập Pro.",
     "Your workspace has been published to the Community Library. {1}": "Không gian làm việc của bạn đã được xuất bản lên Thư viện Cộng đồng. {1}",
     "Zero or more of a": "Không hoặc nhiều của a",
-    "Zero or one of a": "Không hoặc một của a"
+    "Zero or one of a": "Không hoặc một của a",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

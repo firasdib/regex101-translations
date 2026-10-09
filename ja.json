@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "アトミックグループ（非キャプチャ）",
     "Atomic Script Run": "アトミックスクリプトラン",
     "Attempt": "試行",
-    "Attempt {1} · {2} recorded steps": "試行 {1} · {2} ステップを記録",
     "Author (optional)": "作成者（任意）",
     "Auto": "自動",
     "Automatic": "自動",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "1 つの Unicode 拡張書記素クラスター",
     "One-Shot Lowercase Transformation": "ワンショット小文字変換",
     "One-Shot Uppercase Transformation": "ワンショット大文字変換",
-    "Only the first {1} steps are shown.": "最初の {1} ステップのみ表示されます。",
     "Only you can view workspace {1}.": "ワークスペース {1} はあなただけが表示できます。",
     "Open {1} file": "{1} ファイルを開く",
     "open an issue": "問題を報告",
@@ -1852,7 +1850,7 @@
     "Recommended": "おすすめ",
     "Record longer traces and follow execution across match attempts": "より長いトレースを記録し、マッチ試行中の実行を追跡します",
     "Record more": "さらに記録",
-    "Recorded {1} steps and {2} attempts": "{1} ステップ、{2} 回の試行を記録",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "実行トレースを記録中…",
     "Recover local workspaces": "ローカルのワークスペースを復元",
     "Recover saved work": "保存した作業を復元",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "アップグレードはまだ処理中です。後で更新して Pro へのアクセスを確認してください。",
     "Your workspace has been published to the Community Library. {1}": "ワークスペースがコミュニティライブラリに公開されました。{1}",
     "Zero or more of a": "0個以上の",
-    "Zero or one of a": "0個または1個の"
+    "Zero or one of a": "0個または1個の",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

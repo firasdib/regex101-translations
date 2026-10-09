@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Atomisk grupp (icke-bevarande)",
     "Atomic Script Run": "Atomisk skriptkörning",
     "Attempt": "Försök",
-    "Attempt {1} · {2} recorded steps": "Försök {1} · {2} registrerade steg",
     "Author (optional)": "Författare (valfritt)",
     "Auto": "Automatiskt",
     "Automatic": "Automatisk",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "ett utökat Unicode-grafemkluster",
     "One-Shot Lowercase Transformation": "Engångsomvandling till gemener",
     "One-Shot Uppercase Transformation": "Engångsomvandling till versaler",
-    "Only the first {1} steps are shown.": "Endast de första {1} stegen visas.",
     "Only you can view workspace {1}.": "Endast du kan visa arbetsytan {1}.",
     "Open {1} file": "Öppna {1} fil",
     "open an issue": "öppna ett ärende",
@@ -1852,7 +1850,7 @@
     "Recommended": "Rekommenderad",
     "Record longer traces and follow execution across match attempts": "Spela in längre spår och följ körningen under matchningsförsök",
     "Record more": "Registrera mer",
-    "Recorded {1} steps and {2} attempts": "Registrerade {1} steg och {2} försök",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Registrerar körningsspåret…",
     "Recover local workspaces": "Återställ lokala arbetsytor",
     "Recover saved work": "Återställ sparat arbete",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Din uppgradering behandlas fortfarande. Uppdatera senare för att kontrollera din Pro-åtkomst.",
     "Your workspace has been published to the Community Library. {1}": "Din arbetsyta har publicerats i communitybiblioteket. {1}",
     "Zero or more of a": "Noll eller fler av a",
-    "Zero or one of a": "Noll eller fler av en"
+    "Zero or one of a": "Noll eller fler av en",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

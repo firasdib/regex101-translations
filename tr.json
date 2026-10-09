@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Atomik grup (non-capturing)",
     "Atomic Script Run": "Atomik betik çalıştırması",
     "Attempt": "Deneme",
-    "Attempt {1} · {2} recorded steps": "Deneme {1} · {2} adım kaydedildi",
     "Author (optional)": "Yazar (isteğe bağlı)",
     "Auto": "Otomatik",
     "Automatic": "Otomatik",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "bir Unicode genişletilmiş grafem kümesi",
     "One-Shot Lowercase Transformation": "Tek seferlik küçük harfe dönüştürme",
     "One-Shot Uppercase Transformation": "Tek seferlik büyük harfe dönüştürme",
-    "Only the first {1} steps are shown.": "Yalnızca ilk {1} adım gösterilir.",
     "Only you can view workspace {1}.": "Çalışma alanı {1}'i yalnızca siz görüntüleyebilirsiniz.",
     "Open {1} file": "{1} dosyayı aç",
     "open an issue": "bir sorun bildirin",
@@ -1852,7 +1850,7 @@
     "Recommended": "Önerilen",
     "Record longer traces and follow execution across match attempts": "Daha uzun izleri kaydedin ve eşleşme denemeleri boyunca çalıştırmayı takip edin",
     "Record more": "Daha fazlasını kaydet",
-    "Recorded {1} steps and {2} attempts": "{1} adım ve {2} deneme kaydedildi",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Yürütme izini kaydediyor…",
     "Recover local workspaces": "Yerel çalışma alanlarını kurtar",
     "Recover saved work": "Kaydedilen çalışmayı kurtar",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Yükseltmeniz hâlâ işleniyor. Pro erişiminizi kontrol etmek için daha sonra yenileyin.",
     "Your workspace has been published to the Community Library. {1}": "Çalışma alanınız Topluluk Kitaplığı'nda yayınlandı. {1}",
     "Zero or more of a": "a'nın sıfır veya daha fazlası",
-    "Zero or one of a": "a'nın sıfır veya biri"
+    "Zero or one of a": "a'nın sıfır veya biri",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

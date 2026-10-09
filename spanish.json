@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Grupo atómico (no-captura)",
     "Atomic Script Run": "Ejecución de script atómica",
     "Attempt": "Intento",
-    "Attempt {1} · {2} recorded steps": "Intento {1} · {2} pasos registrados",
     "Author (optional)": "Autor (opcional)",
     "Auto": "Automático",
     "Automatic": "Automático",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "un clúster de grafemas Unicode extendido",
     "One-Shot Lowercase Transformation": "Transformación de una sola pasada a minúsculas",
     "One-Shot Uppercase Transformation": "Transformación de una sola pasada a mayúsculas",
-    "Only the first {1} steps are shown.": "Solo se muestran los primeros {1} pasos.",
     "Only you can view workspace {1}.": "Solo tú puedes ver el espacio de trabajo {1}.",
     "Open {1} file": "Abrir {1} archivo",
     "open an issue": "abrir una incidencia",
@@ -1852,7 +1850,7 @@
     "Recommended": "Recomendado",
     "Record longer traces and follow execution across match attempts": "Graba trazas más largas y sigue la ejecución durante los intentos de coincidencia",
     "Record more": "Registrar más",
-    "Recorded {1} steps and {2} attempts": "{1} pasos y {2} intentos registrados",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Registrando la traza de ejecución…",
     "Recover local workspaces": "Recuperar espacios de trabajo locales",
     "Recover saved work": "Recuperar el trabajo guardado",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Tu actualización todavía se está procesando. Actualiza más tarde para comprobar tu acceso a Pro.",
     "Your workspace has been published to the Community Library. {1}": "Tu espacio de trabajo se ha publicado en la biblioteca comunitaria. {1}",
     "Zero or more of a": "Cero o más de un",
-    "Zero or one of a": "Cero o uno de"
+    "Zero or one of a": "Cero o uno de",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

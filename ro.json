@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Grup atomic (fără capturare)",
     "Atomic Script Run": "Rulare atomică a scriptului",
     "Attempt": "Încercare",
-    "Attempt {1} · {2} recorded steps": "Încercarea {1} · {2} pași înregistrați",
     "Author (optional)": "Autor (opțional)",
     "Auto": "Automat",
     "Automatic": "Automat",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "un cluster de grafeme Unicode extins",
     "One-Shot Lowercase Transformation": "Transformare într-o singură trecere în litere mici",
     "One-Shot Uppercase Transformation": "Transformare într-o singură trecere în litere majuscule",
-    "Only the first {1} steps are shown.": "Sunt afișați doar primii {1} pași.",
     "Only you can view workspace {1}.": "Doar tu poți vedea spațiul de lucru {1}.",
     "Open {1} file": "Deschide fișierul {1}",
     "open an issue": "deschide o problemă",
@@ -1852,7 +1850,7 @@
     "Recommended": "Recomandat",
     "Record longer traces and follow execution across match attempts": "Înregistrează urme mai lungi și urmărește execuția în timpul încercărilor de potrivire",
     "Record more": "Înregistrează mai multe",
-    "Recorded {1} steps and {2} attempts": "S-au înregistrat {1} pași și {2} încercări",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Se înregistrează traseul execuției…",
     "Recover local workspaces": "Recuperează spațiile de lucru locale",
     "Recover saved work": "Recuperează lucrările salvate",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Actualizarea ta este încă în procesare. Reîmprospătează mai târziu pentru a verifica accesul Pro.",
     "Your workspace has been published to the Community Library. {1}": "Spațiul tău de lucru a fost publicat în biblioteca comunității. {1}",
     "Zero or more of a": "Zero sau mai multe a",
-    "Zero or one of a": "Zero sau un element de"
+    "Zero or one of a": "Zero sau un element de",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

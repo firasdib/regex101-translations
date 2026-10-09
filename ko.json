@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "원자 그룹(비캡처)",
     "Atomic Script Run": "원자 스크립트 실행",
     "Attempt": "시도",
-    "Attempt {1} · {2} recorded steps": "시도 {1} · {2}개 단계 기록됨",
     "Author (optional)": "작성자(선택 사항)",
     "Auto": "자동",
     "Automatic": "자동",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "유니코드 확장 그래핌 클러스터 하나",
     "One-Shot Lowercase Transformation": "일회성 소문자 변환",
     "One-Shot Uppercase Transformation": "일회성 대문자 변환",
-    "Only the first {1} steps are shown.": "처음 {1}단계만 표시됩니다.",
     "Only you can view workspace {1}.": "작업 공간 {1}은(는) 사용자만 볼 수 있습니다.",
     "Open {1} file": "{1} 파일 열기",
     "open an issue": "이슈 열기",
@@ -1852,7 +1850,7 @@
     "Recommended": "추천",
     "Record longer traces and follow execution across match attempts": "더 긴 추적을 기록하고 매치 시도 과정의 실행을 추적하세요",
     "Record more": "더 기록",
-    "Recorded {1} steps and {2} attempts": "{1}개 단계와 {2}번 시도를 기록함",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "실행 추적 기록 중…",
     "Recover local workspaces": "로컬 작업 공간 복구",
     "Recover saved work": "저장된 작업 복구",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "업그레이드가 아직 처리 중입니다. 나중에 새로고침하여 Pro 액세스를 확인하세요.",
     "Your workspace has been published to the Community Library. {1}": "작업 공간이 커뮤니티 라이브러리에 게시되었습니다. {1}",
     "Zero or more of a": "a의 0개 이상",
-    "Zero or one of a": "a의 0개 또는 1개"
+    "Zero or one of a": "a의 0개 또는 1개",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

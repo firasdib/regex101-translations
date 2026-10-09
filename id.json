@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Grup atomik (non-capturing)",
     "Atomic Script Run": "Eksekusi Skrip Atomik",
     "Attempt": "Percobaan",
-    "Attempt {1} · {2} recorded steps": "Percobaan {1} · {2} langkah tercatat",
     "Author (optional)": "Penulis (opsional)",
     "Auto": "Otomatis",
     "Automatic": "Otomatis",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "satu klaster grafem Unicode yang diperluas",
     "One-Shot Lowercase Transformation": "Transformasi Huruf Kecil Sekali Jalan",
     "One-Shot Uppercase Transformation": "Transformasi Huruf Besar Sekali Jalan",
-    "Only the first {1} steps are shown.": "Hanya {1} langkah pertama yang ditampilkan.",
     "Only you can view workspace {1}.": "Hanya Anda yang dapat melihat ruang kerja {1}.",
     "Open {1} file": "Buka {1} file",
     "open an issue": "buka issue",
@@ -1852,7 +1850,7 @@
     "Recommended": "Direkomendasikan",
     "Record longer traces and follow execution across match attempts": "Rekam trace yang lebih panjang dan ikuti eksekusi selama upaya pencocokan",
     "Record more": "Rekam lebih banyak",
-    "Recorded {1} steps and {2} attempts": "Merekam {1} langkah dan {2} percobaan",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Merekam pelacakan eksekusi…",
     "Recover local workspaces": "Pulihkan ruang kerja lokal",
     "Recover saved work": "Pulihkan pekerjaan tersimpan",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Peningkatan Anda masih diproses. Muat ulang nanti untuk memeriksa akses Pro Anda.",
     "Your workspace has been published to the Community Library. {1}": "Ruang kerja Anda telah dipublikasikan ke Pustaka Komunitas. {1}",
     "Zero or more of a": "Nol atau lebih dari a",
-    "Zero or one of a": "Nol atau satu dari a"
+    "Zero or one of a": "Nol atau satu dari a",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

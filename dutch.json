@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "Atomische groep (niet-capturerend)",
     "Atomic Script Run": "Atomische script-run",
     "Attempt": "Poging",
-    "Attempt {1} · {2} recorded steps": "Poging {1} · {2} geregistreerde stappen",
     "Author (optional)": "Auteur (optioneel)",
     "Auto": "Automatisch",
     "Automatic": "Automatisch",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "één uitgebreid Unicode-grafeemcluster",
     "One-Shot Lowercase Transformation": "Transformatie naar kleine letters in één keer",
     "One-Shot Uppercase Transformation": "Transformatie naar hoofdletters in één keer",
-    "Only the first {1} steps are shown.": "Alleen de eerste {1} stappen worden weergegeven.",
     "Only you can view workspace {1}.": "Alleen jij kunt werkruimte {1} bekijken.",
     "Open {1} file": "Bestand {1} openen",
     "open an issue": "meld een probleem",
@@ -1852,7 +1850,7 @@
     "Recommended": "Aanbevolen",
     "Record longer traces and follow execution across match attempts": "Neem langere traces op en volg de uitvoering tijdens matchpogingen",
     "Record more": "Meer opnemen",
-    "Recorded {1} steps and {2} attempts": "{1} stappen en {2} pogingen geregistreerd",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "Uitvoeringstrace wordt opgenomen…",
     "Recover local workspaces": "Lokale werkruimten herstellen",
     "Recover saved work": "Opgeslagen werk herstellen",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "Je upgrade wordt nog verwerkt. Vernieuw later om je Pro-toegang te controleren.",
     "Your workspace has been published to the Community Library. {1}": "Je werkruimte is gepubliceerd naar de Communitybibliotheek. {1}",
     "Zero or more of a": "Nul of meer van een",
-    "Zero or one of a": "Nul of één van een"
+    "Zero or one of a": "Nul of één van een",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }

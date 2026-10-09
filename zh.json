@@ -434,7 +434,6 @@
     "Atomic group (non-capturing)": "固化分组(不捕获)",
     "Atomic Script Run": "原子脚本运行",
     "Attempt": "尝试",
-    "Attempt {1} · {2} recorded steps": "尝试 {1} · 已记录 {2} 个步骤",
     "Author (optional)": "作者（可选）",
     "Auto": "自动",
     "Automatic": "自动",
@@ -1628,7 +1627,6 @@
     "one Unicode extended grapheme cluster": "一个 Unicode 扩展字素簇",
     "One-Shot Lowercase Transformation": "单次小写转换",
     "One-Shot Uppercase Transformation": "单次大写转换",
-    "Only the first {1} steps are shown.": "仅显示前 {1} 步。",
     "Only you can view workspace {1}.": "只有你可以查看工作区 {1}。",
     "Open {1} file": "打开 {1} 个文件",
     "open an issue": "打开问题",
@@ -1852,7 +1850,7 @@
     "Recommended": "受到推崇的",
     "Record longer traces and follow execution across match attempts": "记录更长的跟踪信息，并跟踪匹配尝试中的执行过程",
     "Record more": "记录更多",
-    "Recorded {1} steps and {2} attempts": "已记录 {1} 个步骤和 {2} 次尝试",
+    "Recorded {1} and {2}": "Recorded {1} and {2}",
     "Recording the execution trace…": "正在记录执行跟踪……",
     "Recover local workspaces": "恢复本地工作区",
     "Recover saved work": "恢复已保存的工作",
@@ -2652,5 +2650,8 @@
     "Your upgrade is still processing. Refresh later to check your Pro access.": "你的升级仍在处理中。稍后刷新以检查 Pro 访问权限。",
     "Your workspace has been published to the Community Library. {1}": "你的工作区已发布到社区库。{1}",
     "Zero or more of a": "零个或更多a",
-    "Zero or one of a": "零个或一个a"
+    "Zero or one of a": "零个或一个a",
+    "Zoom": "Zoom",
+    "Zoom in": "Zoom in",
+    "Zoom out": "Zoom out"
 }
