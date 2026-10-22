@@ -2447,6 +2447,7 @@
     "This workspace exceeds this installation's licensed access. Remove extra test strings or pipeline layers before saving.": "This workspace exceeds this installation's licensed access. Remove extra test strings or pipeline layers before saving.",
     "This workspace has more test strings or pipeline layers than your plan includes. You can still explore it freely. To edit and save, upgrade to Pro or remove the extras.": "This workspace has more test strings or pipeline layers than your plan includes. You can still explore it freely. To edit and save, upgrade to Pro or remove the extras.",
     "This workspace is private or your account does not have access. Wildcards won’t get you in.": "This workspace is private or your account does not have access. Wildcards won’t get you in.",
+    "This workspace is too large to save. Try shortening the regex or reducing the test input.": "This workspace is too large to save. Try shortening the regex or reducing the test input.",
     "This workspace uses features that are not available to you, so it is read-only. You cannot edit or save it. {1}": "This workspace uses features that are not available to you, so it is read-only. You cannot edit or save it. {1}",
     "Throughput is estimated from engine time, not end-to-end application performance. Very short timings are limited by the engine clock precision.": "Throughput is estimated from engine time, not end-to-end application performance. Very short timings are limited by the engine clock precision.",
     "Tilde": "Tilde",

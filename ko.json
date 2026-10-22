@@ -2447,6 +2447,7 @@
     "This workspace exceeds this installation's licensed access. Remove extra test strings or pipeline layers before saving.": "이 작업 공간은 이 설치의 라이선스 액세스 범위를 초과합니다. 저장하기 전에 추가 테스트 문자열 또는 파이프라인 계층을 제거하세요.",
     "This workspace has more test strings or pipeline layers than your plan includes. You can still explore it freely. To edit and save, upgrade to Pro or remove the extras.": "이 작업 공간에는 요금제에 포함된 것보다 많은 테스트 문자열 또는 파이프라인 계층이 있습니다. 계속 자유롭게 살펴볼 수 있습니다. 편집하고 저장하려면 Pro로 업그레이드하거나 추가 항목을 제거하세요.",
     "This workspace is private or your account does not have access. Wildcards won’t get you in.": "이 작업 공간은 비공개이거나 계정에 액세스 권한이 없습니다. 와일드카드로는 들어갈 수 없습니다.",
+    "This workspace is too large to save. Try shortening the regex or reducing the test input.": "This workspace is too large to save. Try shortening the regex or reducing the test input.",
     "This workspace uses features that are not available to you, so it is read-only. You cannot edit or save it. {1}": "이 작업 공간은 사용할 수 없는 기능을 사용하므로 읽기 전용입니다. 편집하거나 저장할 수 없습니다. {1}",
     "Throughput is estimated from engine time, not end-to-end application performance. Very short timings are limited by the engine clock precision.": "처리량은 애플리케이션 종단 간 성능이 아니라 엔진 시간에서 추정됩니다. 매우 짧은 시간은 엔진 시계의 정밀도에 제한됩니다.",
     "Tilde": "틸드",

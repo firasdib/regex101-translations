@@ -2447,6 +2447,7 @@
     "This workspace exceeds this installation's licensed access. Remove extra test strings or pipeline layers before saving.": "このワークスペースは、このインストールで許可されたライセンスアクセスの範囲を超えています。保存する前に、余分なテスト文字列またはパイプラインレイヤーを削除してください。",
     "This workspace has more test strings or pipeline layers than your plan includes. You can still explore it freely. To edit and save, upgrade to Pro or remove the extras.": "このワークスペースには、プランに含まれる数を超えるテスト文字列またはパイプラインレイヤーがあります。引き続き自由に内容を確認できます。編集して保存するには、Proにアップグレードするか、余分な項目を削除してください。",
     "This workspace is private or your account does not have access. Wildcards won’t get you in.": "このワークスペースは非公開であるか、アカウントにアクセス権がありません。ワイルドカードではアクセスできません。",
+    "This workspace is too large to save. Try shortening the regex or reducing the test input.": "This workspace is too large to save. Try shortening the regex or reducing the test input.",
     "This workspace uses features that are not available to you, so it is read-only. You cannot edit or save it. {1}": "このワークスペースでは利用できない機能が使用されているため、読み取り専用です。編集や保存はできません。 {1}",
     "Throughput is estimated from engine time, not end-to-end application performance. Very short timings are limited by the engine clock precision.": "スループットはアプリケーション全体のパフォーマンスではなく、エンジン時間から推定されます。非常に短い時間はエンジンクロックの精度に制限されます。",
     "Tilde": "チルダ",
