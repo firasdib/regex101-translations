@@ -551,7 +551,7 @@
     "Character class intersection": "Schnittmenge von Zeichenklassen",
     "Character class intersection operator is misplaced": "Operator für die Zeichenklassen-Schnittmenge steht an der falschen Stelle",
     "Character class is missing its closing bracket": "Der Zeichenklasse fehlt die schließende Klammer",
-    "Character class nesting exceeds the supported limit of 250": "Die Verschachtelung von Zeichenklassen überschreitet das unterstützte Limit von 250",
+    "Character class nesting exceeds the supported limit of 250": "Die Verschachtelung von Zeichenklassen überschreitet die unterstützte Grenze von 250",
     "Character Class Quote": "Zeichenklassen-Zitat",
     "Character class relative complement": "Relatives Komplement der Zeichenklasse",
     "Character class subtraction": "Subtraktion von Zeichenklassen",

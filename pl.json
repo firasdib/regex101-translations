@@ -1949,7 +1949,7 @@
     "Referenced group number is out of range": "Numer odwołanej grupy jest poza zakresem",
     "Refreshing workspaces": "Odświeżanie obszarów roboczych",
     "Regex": "regex",
-    "regex": "regex",
+    "regex": "wyrażenie regularne",
     "Regex color scheme": "Schemat kolorów regex",
     "Regex conversion": "Konwersja regex",
     "Regex conversion mode": "Tryb konwersji regex",

@@ -551,7 +551,7 @@
     "Character class intersection": "Interseção de classe de caractere",
     "Character class intersection operator is misplaced": "O operador de interseção de classe de caracteres está no lugar errado",
     "Character class is missing its closing bracket": "A classe de caracteres não tem seu colchete de fechamento",
-    "Character class nesting exceeds the supported limit of 250": "O aninhamento de classes de caracteres excede o limite compatível de 250",
+    "Character class nesting exceeds the supported limit of 250": "O aninhamento de classes de caracteres excede o limite suportado de 250",
     "Character Class Quote": "Aspas de classe de caracteres",
     "Character class relative complement": "Complemento relativo de classe de caractere",
     "Character class subtraction": "Subtração de classe de caractere",

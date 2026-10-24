@@ -551,7 +551,7 @@
     "Character class intersection": "कैरेक्टर क्लास intersection",
     "Character class intersection operator is misplaced": "कैरेक्टर क्लास intersection operator गलत जगह है",
     "Character class is missing its closing bracket": "कैरेक्टर क्लास का closing bracket नहीं है",
-    "Character class nesting exceeds the supported limit of 250": "वर्ण वर्गों का नेस्टिंग समर्थित 250 की सीमा से अधिक है",
+    "Character class nesting exceeds the supported limit of 250": "वर्ण वर्गों का नेस्टिंग स्तर 250 की समर्थित सीमा से अधिक है",
     "Character Class Quote": "कैरेक्टर क्लास quote",
     "Character class relative complement": "कैरेक्टर क्लास relative complement",
     "Character class subtraction": "कैरेक्टर क्लास subtraction",
